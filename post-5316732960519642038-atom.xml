@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5316732960519642038</id>
+   <published>2013-03-14T12:13:00.001-04:00</published>
+   <updated>2013-03-14T12:13:34.106-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Ancient Feed Aggregator Update</title>
+   <content type="html">&lt;a href="http://horothesia.blogspot.com/2013/03/new-feed-aggregator-for-ancient-data.html"&gt;horothesia&lt;/a&gt; announced:&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;h2 class="date-header"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span&gt;Thursday, March 14, 2013&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="4673664878260166451"&gt;&lt;/a&gt;&lt;/span&gt;&lt;h3 class="post-title entry-title"&gt;&lt;span style="font-size: x-small;"&gt;New feed aggregator for ancient data &lt;/span&gt;&lt;/h3&gt;&lt;div class="post-header"&gt; &lt;/div&gt;&lt;span style="font-size: x-small;"&gt; I've added a new feed aggregator to the &lt;a href="http://planet.atlantides.org/"&gt;Planet Atlantides&lt;/a&gt; constellation. It's called &lt;a href="http://planet.atlantides.org/potamos/"&gt;Potamos&lt;/a&gt;,  and it's dedicated to aggregating feeds of data from web sites about  the ancient world (photos, archaeological records, bibliographic  records, spatial data, and the like, rather than blog posts, news items,  or event announcements).&lt;/span&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;I've listed the modest number of feeds it's presently pulling together  below; if you know of a web resource whose feed (Atom or RSS) you think  should be added, please send me a link and I'll have a look.&lt;/span&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Ancient World Image Bank Pool (Flickr)&amp;nbsp;[&lt;a href="http://www.flickr.com/groups/awib/pool/"&gt;page&lt;/a&gt;&amp;nbsp;|&amp;nbsp;&lt;a href="http://api.flickr.com/services/feeds/groups_pool.gne?id=1967167@n24"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Ancient World Open Bibliographies (Zotero)&amp;nbsp;[&lt;a href="https://www.zotero.org/groups/ancient_world_open_bibliographies"&gt;page&lt;/a&gt;&amp;nbsp;|&amp;nbsp;&lt;a href="https://api.zotero.org/groups/30984/items/top?start=0&amp;amp;limit=25"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Chiron, CC images of the Classical World Pool (Flickr)&amp;nbsp;[&lt;a href="http://www.flickr.com/groups/chiron/pool/"&gt;page&lt;/a&gt; |&amp;nbsp;&lt;a href="http://api.flickr.com/services/feeds/groups_pool.gne?id=40872899@N00"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Chronique des fouilles en ligne&lt;/i&gt; / Archaeology in Greece Online&amp;nbsp;[&lt;a href="http://chronique.efa.gr/"&gt;page&lt;/a&gt; |&amp;nbsp;&lt;a href="http://chronique.efa.gr/index.php/actu/flux.rss"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Epigraphische Datenbank Heidelberg: Inschriften: Letzte Änderungen&lt;/i&gt;&amp;nbsp;[&lt;a href="http://edh-www.adw.uni-heidelberg.de/inschrift/lastUpdates"&gt;page&lt;/a&gt;&amp;nbsp;|&amp;nbsp;&lt;a href="http://edh-www.adw.uni-heidelberg.de/inschrift/lastUpdates/atom"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Epigraphische Datenbank Heidelberg: Fotos: Letzte Änderungen&lt;/i&gt; [&lt;a href="http://edh-www.adw.uni-heidelberg.de/foto/lastUpdates"&gt;page&lt;/a&gt; | &lt;a href="http://edh-www.adw.uni-heidelberg.de/foto/lastUpdates/atom"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Epigraphische Datenbank Heidelberg: Publikationen: Letzte Änderungen&lt;/i&gt; [&lt;a href="http://edh-www.adw.uni-heidelberg.de/bibliographie/lastUpdates"&gt;page&lt;/a&gt; | &lt;a href="http://edh-www.adw.uni-heidelberg.de/bibliographie/lastUpdates/atom"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Papyri.info: Recent Commits to idp.data:master (Github) [&lt;a href="https://github.com/papyri/idp.data/commits/"&gt;page&lt;/a&gt; | &lt;a href="https://github.com/papyri/idp.data/commits/master.atom"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Pleiades Places Pool (Flickr)&amp;nbsp;[&lt;a href="http://www.flickr.com/groups/pleiades-places/pool/"&gt;page&lt;/a&gt;&amp;nbsp;|&amp;nbsp;&lt;a href="http://api.flickr.com/services/feeds/groups_pool.gne?id=1876758@N22"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Pleiades: Recently Modified [&lt;a href="http://pleiades.stoa.org/news/changes"&gt;page&lt;/a&gt; | &lt;a href="http://pleiades.stoa.org/news/changes.atom"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Portable Antiquities Scheme Database: Latest Finds&amp;nbsp;[&lt;a href="http://finds.org.uk/database/search/results/"&gt;page&lt;/a&gt; |&amp;nbsp;&lt;a href="http://www.finds.org.uk/database/artefacts/index/format/rss/"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Visibile Parlare&lt;/i&gt; - Greek inscriptions Pool (Flickr)&amp;nbsp;[&lt;a href="http://www.flickr.com/groups/562831@N24/pool/"&gt;page&lt;/a&gt; | &lt;a href="http://api.flickr.com/services/feeds/groups_pool.gne?id=562831@N24"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Visible words - &lt;i&gt;Visibile parlare&lt;/i&gt; Pool (Flickr)&amp;nbsp;[&lt;a href="http://www.flickr.com/groups/visible_words/pool/"&gt;page&lt;/a&gt; | &lt;a href="http://api.flickr.com/services/feeds/groups_pool.gne?id=502617@N24"&gt;feed&lt;/a&gt;]&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;br /&gt;See more from AWOL on &lt;a href="http://ancientworldonline.blogspot.com/2009/01/atlantides-feed-aggregators-for-ancient.html"&gt;Feed Aggregators for Ancient Studies&lt;/a&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/5316732960519642038/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/03/ancient-feed-aggregator-update.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5316732960519642038"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5316732960519642038"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/03/ancient-feed-aggregator-update.html"
+         title="Ancient Feed Aggregator Update"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

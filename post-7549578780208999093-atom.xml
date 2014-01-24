@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7549578780208999093</id>
+   <published>2012-02-19T08:56:00.002-05:00</published>
+   <updated>2012-02-19T08:56:59.055-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="papyrology"/>
+   <title type="text">Linked Homer Papyri Inventory</title>
+   <content type="html">&lt;div style="font-family: inherit;"&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://papyrology.blogspot.com/2012/02/homer-multitext-project-hmt-re-editions.html"&gt;Gregg Schwendner's version&lt;/a&gt; of the &lt;a href="http://homericpapyri.appspot.com/CTS?inv=inventory.xml&amp;amp;request=GetCapabilities&amp;amp;withXSLT=chs-gc"&gt;Homer Multitext Project's&lt;/a&gt; &lt;span class="Apple-style-span"&gt;&lt;a href="http://homericpapyri.appspot.com/CTS?request=GetCapabilities&amp;amp;withXSLT=chs-gc&amp;amp;inv=inventory.xml"&gt;Inventory of Texts&lt;/a&gt;.&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="Apple-style-span" style="font-family: Georgia,Georgia,serif;"&gt;I  have added links to LDAB and other sources of online information at the  home institution of the papyrus wherever possible. I have normalized  the papyrological references. The re-editions themselves have an  unconventional presentation, and no printable version is yet available.&lt;/span&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;span class="Apple-style-span" style="font-family: Georgia, Georgia, serif;"&gt;&lt;/span&gt;&lt;br /&gt;&lt;h3 class="post-title"&gt;                           &lt;/h3&gt;&lt;span class="Apple-style-span" style="font-family: Georgia, Greogia, serif;"&gt;&lt;br /&gt;&lt;/span&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/7549578780208999093/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/02/linked-homer-papyri-inventory.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7549578780208999093"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7549578780208999093"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/02/linked-homer-papyri-inventory.html"
+         title="Linked Homer Papyri Inventory"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

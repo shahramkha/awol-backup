@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4420576643911620410</id>
+   <published>2012-07-02T06:00:00.000-04:00</published>
+   <updated>2013-05-30T09:55:45.697-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliographies"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Aegean"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <title type="text">DataBases about Aegean Subjects</title>
+   <content type="html">&lt;span style="font-size: xx-small;"&gt;&amp;nbsp;[First posted in AWOL 16 February 2011. Updated 2 July 2012]&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://dbas.sciant.unifi.it/"&gt;DataBases about Aegean Subjects (DBAS)&lt;/a&gt;&lt;br /&gt;&lt;div align="justify" style="text-align: center;"&gt;&lt;img alt="logo-dbas" height="375" src="http://dbas.sciant.unifi.it/upload/sub/immagini/logo-dbas.png" style="height: 176px; width: 333px;" title="logo-dbas" width="654" /&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;span style="font-size: x-small;"&gt;The DBAS project, the acronym of “Data Bases about Aegean Subjects”,  starts in 2005 as a complex research tool for the study of specific themes,  regarding the Aegean and the East Mediterranean areas in the pre-classical period,  from the idea that a complete statistical analysis of the data of interest could be highly beneficial. Promoted by the University of Florence, this project has contributions  by historians, philologists, archaeologists and computer scientists,  both from the University of Florence and other Institutions.  DBAS is a new kind of on-line consultation tool, a scientific portal organized in three main sections:  &lt;i&gt;Data bases for advanced research on specific topics, Bibliographic data bases,  Tools and other implements for general research and for educational purposes.&lt;/i&gt; &lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;The overall architecture of the web site where the project is hosted shows  the merging in a joint system of a number of general features including: &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Linking of different data/sets:&lt;/i&gt;&lt;br /&gt;archaeological, iconographical, philological data and other records on selected topics    will come together in dedicated data bases.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Linking of different data bases:&lt;/i&gt;&lt;br /&gt;data bases on close or related matters will be combined to allow for search of chronological,    geographical or thematic correlations. To further enlarge the perspective,    the data bases will be connected to additional resources available at the site,    like downloadable fonts, selected thematic bibliographies, photo galleries, etc...&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;Linking to different web-sites:&lt;/i&gt;&lt;br /&gt;the DBAS structure will ensure, with appropriate tools, the connection to other    web-sites offering different materials related to the main research themes developed    in this project. This is a particularly relevant feature making DBAS an open structure    not only to enlarge its records but mainly to involve other scholars and to improve    the scientific quality of the available data.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;h2 class="pn-title" style="background-color: #32418d; color: white; margin-top: 0px; padding: 2px 2px 2px 10px; text-align: left;"&gt;    &lt;span style="font-size: x-small;"&gt;DataBases&lt;/span&gt;&lt;/h2&gt;&lt;ul class=" cmpro-block-page"&gt;&lt;li class=" cmpro-block-pageitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://dbas.sciant.unifi.it/CMpro-v-p-1.html"&gt;DBAS CHS - Cretan Hieroglyphic Seals&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class=" cmpro-block-pageitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://dbas.sciant.unifi.it/CMpro-v-p-6.html"&gt;DBAS ACF - The Aegean Collections of the National Archaeological Museum of Florence &lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h1 class="cmpro-titleh1"&gt; &lt;span style="font-size: x-small;"&gt;Databases in progress&lt;/span&gt;&lt;/h1&gt;&lt;ul class="cmpro-pageslist xoxo"&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://dbas.sciant.unifi.it/CMpro-v-p-23.html"&gt;DBAS-AQ Ahhiyawa Question&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://dbas.sciant.unifi.it/CMpro-v-p-24.html"&gt;DBAS-TWC Textile work areas in Bronze Age Crete&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://dbas.sciant.unifi.it/CMpro-v-p-26.html"&gt;DBAS-MAE Mycenaeans in the Amarnian Egypt&lt;/a&gt;&amp;nbsp; &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h1 class="cmpro-titleh1"&gt; &lt;span style="font-size: x-small;"&gt;Bibliographical Databases &lt;/span&gt;&lt;/h1&gt;&lt;ul class="cmpro-pageslist xoxo"&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://www.unifi.it/dbas/CMpro-v-p-23.html"&gt;The Ahhiyawa Question&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://dbas.sciant.unifi.it/CMpro-v-p-28.html"&gt;Minoan and Mycenaean Bibliographies since 2006&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://dbas.sciant.unifi.it/CMpro-v-p-29.html"&gt;Cretan Hieroglyphic Glyptic&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://dbas.sciant.unifi.it/CMpro-v-p-30.html"&gt;Mycenological publications by scholars of the former Soviet Union&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="cmpro-empty cmpro-pageslistitem"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="normalHeader" href="http://dbas.sciant.unifi.it/CMpro-v-p-32.html"&gt;Aegean Presence in Western and Coastal Anatolia during the 2nd Millennium B.C. &lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;See the full &lt;a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"&gt;List of Open Access Journals in Ancient Studies&lt;/a&gt;.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="http://draft.blogger.com/post-edit.g?blogID=116259103207720939&amp;amp;postID=8246424762897007409" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"&gt;&lt;/a&gt;&lt;script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"&gt;&lt;/script&gt;&lt;/div&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/4420576643911620410/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/02/databases-about-aegean-subjects.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4420576643911620410"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4420576643911620410"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/02/databases-about-aegean-subjects.html"
+         title="DataBases about Aegean Subjects"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

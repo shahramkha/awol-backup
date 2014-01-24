@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7759242990821036240</id>
+   <published>2013-06-09T07:50:00.001-04:00</published>
+   <updated>2013-08-05T16:57:15.958-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <title type="text">EpiDoc Guidelines</title>
+   <content type="html">&lt;a href="http://www.stoa.org/epidoc/gl/latest/"&gt;&lt;span class="head"&gt;EpiDoc Guidelines: Ancient documents in TEI XML&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;EpiDoc is an international, collaborative effort that provides  guidelines and tools for encoding scholarly and educational editions of  ancient documents. These are the &lt;span class="titlem"&gt;Guidelines&lt;/span&gt; produced by the collaborative. In addition, the &lt;a class="link_ref" href="http://epidoc.sf.net/"&gt;EpiDoc Website&lt;/a&gt; provides access to all the tools and collaboration environments supported by the collaborative. &lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;EpiDoc uses a subset of the &lt;a class="link_ref" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index-toc.html"&gt;Text Encoding Initiative's (TEI) standard&lt;/a&gt; for the representation of texts in digital form using the &lt;a class="link_ref" href="http://en.wikipedia.org/wiki/XML"&gt;Extensible Markup Language (XML)&lt;/a&gt;,  a technical standard promulgated by the World-Wide Web Consortium. It  addresses not only the transcription and editorial preparation of the  texts themselves, but also the the history and materiality of the  objects on which the texts appear. &lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;These &lt;span class="titlem"&gt;Guidelines&lt;/span&gt; contain descriptions of the textual, descriptive, and other features  that are often expressed with EpiDoc, as well as the TEI elements and  attributes that are used to encode them. The links below provide a  number of entry points into the full document and should be thought of  more as a series of thematic indexes into the content of the &lt;span class="titlem"&gt;Guidelines&lt;/span&gt;, rather than a single "Table of Contents" that reflects an ordered, hierarchical document structure.&lt;/span&gt;&lt;br /&gt;&lt;div class="teidiv1" id="index-body.1_div.1_div.1"&gt;&lt;h2&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="head"&gt;Browse Guidelines&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class="teidiv2" id="index-body.1_div.1_div.1_div.1"&gt;&lt;h3&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="head"&gt;All guidelines pages:&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-alltrans.html"&gt;Transcription Guidelines&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-allsupp.html"&gt;Supporting Data Guidelines&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-allidx.html"&gt;Vocabularies and Indexing Guidelines&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="teidiv2" id="index-body.1_div.1_div.1_div.2"&gt;&lt;h3&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="head"&gt;Guidelines for specialized communities:&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-epi-panciera.html"&gt;Text transcription following Krummrey-Panciera 1980&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-epi-petrae.html"&gt;Text transcription and supporting material following PETRAE&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-papy-ddbdp.html"&gt;Text transcription following DDbDP&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-epi-edh.html"&gt;Supporting material following EDH&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-papy-ddbdp.html"&gt;Supporting material following HGV&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-papy-ddbdp.html"&gt;Supporting material following APIS&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="teidiv1" id="index-body.1_div.1_div.2"&gt;&lt;h2&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="head"&gt;Appendices&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/intro-eps.html"&gt;Introduction for Epigraphers&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-bibliography.html"&gt;Bibliography&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="link_ref" href="http://www.stoa.org/epidoc/gl/latest/app-glossary.html"&gt;Glossary&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class="teidiv1" id="toc-responsibility"&gt;&lt;h2&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="head"&gt;Responsibility for this section&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ol class="listBibl"&gt;&lt;li id="index-bibl-d39e105"&gt;&lt;div class="biblfree"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="name"&gt;Gabriel Bodard&lt;/span&gt;, author  &lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li id="index-bibl-d39e111"&gt;&lt;div class="biblfree"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="name"&gt;Elli Mylonas&lt;/span&gt;, author  &lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li id="index-bibl-d39e117"&gt;&lt;div class="biblfree"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span class="name"&gt;Tom Elliott&lt;/span&gt;, author  &lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/blockquote&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/7759242990821036240/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/06/epidoc-guidelines.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7759242990821036240"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7759242990821036240"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/06/epidoc-guidelines.html"
+         title="EpiDoc Guidelines"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

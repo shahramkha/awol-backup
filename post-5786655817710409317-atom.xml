@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5786655817710409317</id>
+   <published>2010-08-11T09:32:00.001-04:00</published>
+   <updated>2010-08-11T09:34:14.795-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Open Access Quranic Arabic Corpus</title>
+   <content type="html">&lt;a href="http://corpus.quran.com/"&gt;Quranic Arabic Corpus&lt;/a&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://www.comp.leeds.ac.uk/arabic/"&gt;University of Leeds Arabic Language Computing Research Group&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;span style="font-size: xx-small;"&gt;Welcome to the Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology. &lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;span style="font-size: xx-small;"&gt;What is the Quran? A significant religious text written in Quranic Arabic and followed by believers of the Islamic faith. The Quran contains 6236 numbered verses (ayāt) and is divided into 114 chapters. An example verse from the Quran:&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;Verse (21:30) - Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;* Word-by-Word Quran - maps out the syntax of the entire Quran, with analysis and translation&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;* Quranic Grammar - traditional Arabic grammar (إعراب) illustrated using dependency graphs&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div class="root"&gt;&lt;span style="font-size: xx-small;"&gt;Quranic Arabic Corpus&lt;/span&gt;&lt;/div&gt;&lt;table border="0" cellpadding="0" cellspacing="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/wordbyword.jsp"&gt;Word-by-Word Quran&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/treebank.jsp"&gt;Syntactic Treebank&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/qurandictionary.jsp"&gt;Quranic Words&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/translation.jsp"&gt;English Translation&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/ontology.jsp"&gt;Ontology&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="root2"&gt;&lt;span style="font-size: xx-small;"&gt;Linguistics&lt;/span&gt;&lt;/div&gt;&lt;table border="0" cellpadding="0" cellspacing="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/documentation"&gt;Corpus Guide&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/documentation/grammar.jsp"&gt;Quranic Grammar&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/messageboard.jsp"&gt;Message Board&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/feedback.jsp"&gt;Quran Project&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="menu1"&gt;&lt;/td&gt;&lt;td class="level1"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://corpus.quran.com/java"&gt;Java API&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"&gt;&lt;img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /&gt;&lt;/a&gt;&lt;/div&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/5786655817710409317/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2010/08/open-access-quranic-arabic-corpus.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5786655817710409317"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5786655817710409317"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2010/08/open-access-quranic-arabic-corpus.html"
+         title="Open Access Quranic Arabic Corpus"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

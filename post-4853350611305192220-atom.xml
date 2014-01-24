@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4853350611305192220</id>
+   <published>2009-01-25T19:26:00.000-05:00</published>
+   <updated>2009-01-28T18:16:53.663-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Monty Python"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="open access"/>
+   <title type="text">Open access promotes sales</title>
+   <content type="html">&lt;a href="http://i.gizmodo.com/5137827/monty-python-puts-free-videos-online-sells-23000-more-dvds"&gt;This is interesting&lt;/a&gt;.  23,000 % increase in sales after open access is granted?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Granted it's &lt;a href="http://en.wikipedia.org/wiki/Monty_Python"&gt;Monty Python&lt;/a&gt; (Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin, &amp;amp;c. but still, two of their films were about the ancient world (more or less): &lt;a href="http://www.imdb.com/title/tt0071853/"&gt;Monty Python and the Holy Grail&lt;/a&gt; (1975) and &lt;a href="http://www.imdb.com/title/tt0079470/"&gt;Monty Python's Life of Brian&lt;/a&gt; (1979), and they engaged archaology from time to time:  &lt;a href="http://www.youtube.com/watch?v=xd_n0lF_hAg"&gt;Archaeology Today&lt;/a&gt;; and &lt;a href="http://www.youtube.com/watch?v=teMlv3ripSM"&gt;enjoyed a sophisticated argument&lt;/a&gt;; and poked fun at the academy at home and &lt;a href="http://www.youtube.com/watch?v=_f_p0CgPeyA"&gt;abroad&lt;/a&gt; - not too different from lots of people I know.  In any case a 23,000 % increase in sales after granting open access is a nice benchmark.</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/4853350611305192220/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/01/open-access-promotes-sales.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4853350611305192220"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4853350611305192220"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/01/open-access-promotes-sales.html"
+         title="Open access promotes sales"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

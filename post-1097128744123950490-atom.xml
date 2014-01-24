@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1097128744123950490</id>
+   <published>2013-03-30T09:15:00.000-04:00</published>
+   <updated>2013-03-30T09:15:10.537-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digital Library"/>
+   <title type="text">World Digital Library (WDL)</title>
+   <content type="html">&lt;a href="http://www.wdl.org/en/"&gt;World Digital Library (WDL)&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;img alt="" src="data:image/png;base64,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" /&gt; &lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;The World Digital Library (WDL) makes available on the Internet, free of charge and in multilingual format, significant primary materials from countries and cultures around the world.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;The principal objectives of the WDL are to:&lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Promote international and intercultural understanding;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Expand the volume and variety of cultural content on the Internet;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Provide resources for educators, scholars, and general audiences;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Build capacity in partner institutions to narrow the digital divide within and between countries.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;h2&gt;&lt;b&gt;&lt;span style="font-weight: normal;"&gt;&lt;span style="font-size: small;"&gt;8000 BCE - 499 CE                                                  &lt;span class="pipe"&gt; | &lt;/span&gt;                        &lt;span class="plus"&gt; + &lt;/span&gt;                        &lt;a href="http://www.wdl.org/en/search/?time_periods=-8000-499"&gt;View all 144 items&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h2&gt;&lt;br /&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/1097128744123950490/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/03/world-digital-library-wdl.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1097128744123950490"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1097128744123950490"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/03/world-digital-library-wdl.html"
+         title="World Digital Library (WDL)"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

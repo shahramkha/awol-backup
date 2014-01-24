@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7145830109608604463</id>
+   <published>2013-07-13T07:10:00.001-04:00</published>
+   <updated>2013-07-13T07:10:15.128-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">Nomisma Update</title>
+   <content type="html">&lt;a href="http://numishare.blogspot.com/2013/07/new-and-improved-nomismaorg-released.html"&gt;New and Improved Nomisma.org Released&lt;/a&gt; &lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Friday, July 12, 2013&lt;/span&gt; &lt;br /&gt; &lt;div class="post-header"&gt; &lt;/div&gt;&lt;blockquote class="tr_bq"&gt;  &lt;span style="font-size: x-small;"&gt;Today we have released the new and improved &lt;a href="http://nomisma.org/"&gt;Nomisma.org&lt;/a&gt;.&amp;nbsp;  There have been some updates to fix consistency problems in the data.&amp;nbsp;  One of the major improvements is the importation of multilingual labels  pulled from &lt;a href="http://dbpedia.org/"&gt;dbpedia&lt;/a&gt; through the  XForms-based editing interface (I'll write up a blog post to discuss the  Nomisma back-end eventually, and probably write up something more  detailed for publication in &lt;a href="http://code4lib.org/"&gt;code4lib&lt;/a&gt; or &lt;a href="https://caaconference.org/"&gt;CAA&lt;/a&gt;).&amp;nbsp; In addition to data improvements, we have introduced some major new functionalities:&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;h2 style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;&amp;nbsp;SPARQL endpoint (&lt;a href="http://nomisma.org/sparql"&gt;http://nomisma.org/sparql&lt;/a&gt;)&lt;/span&gt;&lt;/h2&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&amp;nbsp;The new Nomisma server employs an RDF triplestore and SPARQL endpoint based on &lt;a href="http://jena.apache.org/documentation/serving_data/"&gt;Apache Fuseki&lt;/a&gt;.&amp;nbsp; The endpoint is detailed in an older post, "&lt;a href="http://numishare.blogspot.com/2013/03/how-to-participate-in-ocre.html"&gt;How to Participate in OCRE&lt;/a&gt;."&amp;nbsp;  Instead of launching a triplestore specifically for OCRE, we have  launched it more generally for Nomisma.&amp;nbsp; Therefore, we can insert into  it RDF describing non-Roman imperial coins.&amp;nbsp; OCRE, then, queries the  Nomisma triplestore to power its mapping, quantitative analysis, and  thumbnail-displaying capabilities.&amp;nbsp; When we release the new linked  data-aware OCRE (which will contain all RIC types through Commodus)  within the next few weeks, I'll provide a more detailed blog post about  how OCRE functions...&lt;/span&gt;&lt;/blockquote&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/7145830109608604463/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/07/nomisma-update.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7145830109608604463"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7145830109608604463"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/07/nomisma-update.html"
+         title="Nomisma Update"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

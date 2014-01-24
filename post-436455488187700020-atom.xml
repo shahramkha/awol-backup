@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-436455488187700020</id>
+   <published>2013-11-29T07:30:00.000-05:00</published>
+   <updated>2013-11-29T07:41:50.403-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
+   <title type="text">Stanford Digital Forma Urbis Romae Project</title>
+   <content type="html">&lt;span style="font-size: xx-small;"&gt;[First posted in AWOL 8 December 2009, updated 29 November 2013] &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://formaurbis.stanford.edu/"&gt;Stanford Digital Forma Urbis Romae Project&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;img alt="http://formaurbis.stanford.edu/docs/a2140-010g-0-c2.gif" class="decoded" src="http://formaurbis.stanford.edu/docs/a2140-010g-0-c2.gif" height="167" width="320" /&gt; &lt;/blockquote&gt;&lt;blockquote&gt;&lt;span style="font-size: 85%;"&gt;This site is dedicated to exploring the Forma Urbis Romae, or Severan Marble Plan of Rome. This enormous map, measuring ca. 18.10 x 13 meters (ca. 60 x 43 feet), was carved between 203-211 CE and covered an entire wall inside the Templum Pacis in Rome. It depicted the groundplan of every architectural feature in the ancient city, from large public monuments to small shops, rooms, and even staircases. For more information about the map itself, go to the Map page.&lt;br /&gt;&lt;br /&gt;The Severan Marble Plan is a key resource for the study of ancient Rome, but only 10-15% of the map survives, broken into 1,186 pieces. For centuries, scholars have tried to match the fragments and reconstruct this great puzzle, but progress is slow--the marble pieces are heavy, unwieldy, and not easily accessible. Now, computer scientists and archaeologists at Stanford are employing digital technologies to try to reconstruct the map. In collaboration with the Sovraintendenza of the Comune di Roma, a team from Stanford's Computer Graphics laboratory has been creating digital photographs and 3D models of all 1,186 fragments. The next step is to develop 3D matching algorithms to "solve the map," and to build a fully searchable database of the fragments--a much-needed tool for archaeological research. To read about our aims and methods in detail, go to the Project page. To know who is involved, click on People.&lt;br /&gt;&lt;br /&gt;This site presents 1,186 of the surviving fragments and 87 fragments known only from Renaissance drawings in a fully searchable database. Each entry includes digital color photographs and 3D models (download our viewer, for PCs only - sorry, Mac users), a search box, a description of the fragment, an analysis of its significance and a review of the scholarly literature. The team is also developing a viewer that will allow you to try to match fragments, and a slab map that reconstructs the known areas of the entire Plan. The full release of the database of all 1,186 known fragments is planned for 2004.&lt;br /&gt;&lt;br /&gt;Our aim is to make this material accessible to specialists, students and the general public. The project is a joint effort between engineers from the Department of Computer Science, archaeologists from the Department of Classics at Stanford, and the Sovraintendenza of the City of Rome. We are still developing this site; please contact us with your comments through the People page.&lt;/span&gt; &lt;/blockquote&gt;&lt;blockquote&gt; &lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/index.html"&gt;Home&lt;/a&gt;&lt;/span&gt;   &lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURproject.html"&gt;Project&lt;/a&gt;&lt;/span&gt;  &lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURmap.html"&gt;Map&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURdb.html"&gt;Database&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURslabmap.html"&gt;Slab&amp;nbsp;Map&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURglossary.html"&gt;Glossary&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURbiblio.html"&gt;Bibliography&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURpeople.html"&gt;People&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;br /&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://formaurbis.stanford.edu/docs/FURlinks.html"&gt;Links&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/td&gt;&lt;td&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/blockquote&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/436455488187700020/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/12/stanford-digital-forma-urbis-romae.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/436455488187700020"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/436455488187700020"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/12/stanford-digital-forma-urbis-romae.html"
+         title="Stanford Digital Forma Urbis Romae Project"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2812007861070730740</id>
+   <published>2012-04-03T17:00:00.000-04:00</published>
+   <updated>2012-04-03T16:53:27.539-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Syriac"/>
+   <title type="text">Syriac Reference Portal Wiki</title>
+   <content type="html">&lt;span style="font-size: x-small;"&gt;[First posted in AWOL 3 October 2011. Updated 3 April 2012] &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.syriac.ua.edu/wiki/index.php5/Main_Page"&gt;Syriac Reference Portal&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;h1&gt; &lt;span style="font-size: x-small;"&gt;&lt;span class="mw-headline" id="Welcome_to_the_Syriac_Reference_Portal_Demo_Page.21"&gt;Welcome to the Syriac Reference Portal Demo Page!&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;span style="font-size: x-small;"&gt;Below are links demonstrating the reference tools we are building. &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;Please note that this site is still under construction. If you  encounter broken links, please contact syriac@ua.edu for assistance. &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;You will find a general discussion of the Portal and its aims here: &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://syriac.ua.edu/" rel="nofollow"&gt;Syriac Reference Portal General Information Page&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;You will find a sample article with live text and a prosopography entry here: &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a href="http://www.syriac.ua.edu/wiki/index.php5/Philoxenos_of_Mabbug" title="Philoxenos of Mabbug"&gt;Philoxenos of Mabbug&lt;/a&gt; Sample Article (This article may be locked if we are testing the site.) &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;Mock up demos (i.e. not live text) of the same are available here: &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://syriac.ua.edu/person.html" rel="nofollow"&gt;Prosopography Browser&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://syriac.ua.edu/entry.html" rel="nofollow"&gt;Encyclopedia and Bibliography Demo&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;The bibliography module for the site is in progress here: &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://biblio.syriac.ua.edu/" rel="nofollow"&gt;Online Bibliography&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;We are also partnering with Beth Mardutho, the Syriac Institute to create an online publication repository: &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://ebetharke.bethmardutho.org/" rel="nofollow"&gt;ebeth arke public domain repository (running an DSpace installation)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;Sample entries for our manuscript catalogue (using TEI/ENRICH) are here: &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://syriac.ua.edu/WrightDCCXLIX.xml" rel="nofollow"&gt;Syriac Manuscript Catalogue Sample TEI Entry 1&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://syriac.ua.edu/WrightDCCL.xml" rel="nofollow"&gt;Syriac Manuscript Catalogue Sample TEI Entry 2&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://syriac.ua.edu/WrightDCCLI.xml" rel="nofollow"&gt;Syriac Manuscript Catalogue Sample TEI Entry 3&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;Finally, we are partnering with OCLC World Cat to create a Syriac authority file (or list of Syriac authors). &lt;/span&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://viaf.org/" rel="nofollow"&gt;Virtual International Authority File (Collaborator Website)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt; &lt;span style="font-size: x-small;"&gt;&lt;a class="external text" href="http://viaf.org/hosted/syriac/" rel="nofollow"&gt;Syriac Extension of Viaf (search for "Philoxenos")&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;Thank you for your interest! &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;-David Michelson, project director &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;Postscript for the curious: The acronym of the Portal (SRP) when rendered in Syriac as above spells "srophe" or seraphim. &lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/2812007861070730740/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/10/emerging-syriac-reference-portal.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2812007861070730740"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2812007861070730740"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/10/emerging-syriac-reference-portal.html"
+         title="Syriac Reference Portal Wiki"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

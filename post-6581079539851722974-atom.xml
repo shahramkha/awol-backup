@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6581079539851722974</id>
+   <published>2009-04-07T16:03:00.000-04:00</published>
+   <updated>2011-12-29T12:38:19.137-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Mellon Foundation"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <title type="text">A New Project: Digital Antiquity</title>
+   <content type="html">&lt;a href="http://archaeoinformatics.org/"&gt;Archaeoinformatics.org&lt;/a&gt; has changed into &lt;a href="http://www.digitalantiquity.org/"&gt;Digital Antiquity&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;In a series of announcements over the past week, Digital Antiquity has made its presence known:&lt;br /&gt;&lt;blockquote&gt;... Digital Antiquity will establish a financially and socially sustainable, national/international, on-line digital repository that is able to provide preservation, discovery, and access for data and documents produced by archaeological projects. The repository, known as tDAR (for "the Digital Archaeological Record") encompasses documents and data derived from ongoing research (more than 50,000 field projects are conducted in the US each year) as well as legacy data collected through more than a century of archaeological research in the Americas.  With the active participation of the discipline, this initiative has the potential to transform the practice of archaeology and to revolutionize our knowledge of the past by enabling synthetic and comparative research on a scale that has heretofore been impossible.&lt;br /&gt;&lt;br /&gt;With generous funding from the Andrew W. Mellon Foundation funding, Digital Antiquity will support a full-time Executive Director (search in progress), two software engineers, a data curator, and clerical staff (all to be hired as soon as the Executive Director is on-board). The Executive Director's management of Digital Antiquity is overseen by a 12 member Board of Directors and informed by a distinguished external Science Board of professionals in archaeology and computer and information science. Digital Antiquity is currently housed at Arizona State University, as a collaborative effort with the University of Arkansas, the Pennsylvania State University, the SRI Foundation, Washington State University, and the University of York...&lt;/blockquote&gt;They are searching for a full-time &lt;a href="http://www.digitalantiquity.org/confluence/display/DIGITAQ/Executive+Director+Search"&gt;Executive Director&lt;/a&gt;, and will hire two software engineers, a data curator, and clerical staff as soon as the Executive Director is on-board.&lt;br /&gt;&lt;br /&gt;The Digital Antiquity wiki will be very interesting to watch, especially if they deploy a news feed.&lt;br /&gt;&lt;br /&gt;And see also the &lt;a href="http://ancientworldonline.blogspot.com/2009/04/digital-publishing-initiative-for-new.html"&gt;Archaeology of the Americas Digital Monograph Initiative&lt;/a&gt;, as well as Charles Watkinson's &lt;a href="http://www.charleswatkinson.com/2009/04/mellon-issues-implicit-challenge-to.html"&gt;comments on both&lt;/a&gt;.</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/6581079539851722974/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/04/new-project-digital-antiquity.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6581079539851722974"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6581079539851722974"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/04/new-project-digital-antiquity.html"
+         title="A New Project: Digital Antiquity"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

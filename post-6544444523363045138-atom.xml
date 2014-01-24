@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6544444523363045138</id>
+   <published>2011-07-21T14:16:00.002-04:00</published>
+   <updated>2011-07-22T09:22:19.700-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Text-Image Linking Environment (TILE)</title>
+   <content type="html">&lt;a href="http://mith.info/tile/"&gt;Text-Image Linking Environment (TILE)&lt;/a&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;div class="post-525 page type-page status-publish hentry" id="post-525"&gt;	                 					&lt;div class="entry-content"&gt; 	 	                    &lt;span style="font-size: x-small;"&gt;The Text-Image Linking Environment (TILE) is a  web-based tool for creating and editing image-based electronic editions  and digital archives of humanities texts. Out of the box, TILE 1.0  supports the following tools and functionality:&lt;/span&gt;&lt;br /&gt; &lt;ul class="tile-feature-list"&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;img alt="" src="http://mith.umd.edu/tile/wp-content/uploads/2011/02/feature-imagemarkup.jpg" /&gt;&lt;span class="description"&gt;&lt;br /&gt;&lt;h3&gt;Image markup tool&lt;/h3&gt;Annotate regions of an image by drawing rectangles, polygons, and  ellipses, apply labels to selections, and manually create links between  sections of an image and transcript lines.&lt;br /&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;img alt="" src="http://mith.umd.edu/tile/wp-content/uploads/2011/02/feature-importexport.jpg" /&gt;&lt;span class="description"&gt;&lt;br /&gt;&lt;h3&gt;Importing and exporting tools&lt;/h3&gt;Import TEI P5 or JSON data directly into TILE or create a script to  import from various XML formats. Export your data as TEI or JSON to save  your progress or use scripts to output into any XML, HTML, or  text-based format. Additional import/export tools can be developed as  plugins.&lt;br /&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;img alt="" src="http://mith.umd.edu/tile/wp-content/uploads/2011/02/feature-linerecognition.jpg" /&gt;&lt;span class="description"&gt;&lt;br /&gt;&lt;h3&gt;Semi-automated line recognizer&lt;/h3&gt;Implemented in javascript, our semi-automated line recognizer  annotates images by detecting individual lines on an image, and selects  regions of an image based upon those lines.&lt;br /&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;img alt="" src="http://mith.umd.edu/tile/wp-content/uploads/2011/02/feature-pluginarch.jpg" /&gt;&lt;span class="description"&gt;&lt;br /&gt;&lt;h3&gt;Plugin architecture&lt;/h3&gt;Extend the core functionality of TILE by creating a plugin that can  manipulate TILE’s interface, filter and process data, and connect to  other tools.&lt;br /&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id="buttons"&gt;             &lt;blockquote&gt;&lt;span style="font-size: x-small;"&gt;&lt;a class="button" href="http://mith.umd.edu/tile/sandbox/" rel="nofollow"&gt;Try The Sandbox »&lt;/a&gt;            &lt;a class="button" href="https://github.com/umd-mith/TILE/zipball/v1.0"&gt;Download »&lt;/a&gt;			&lt;a class="button" href="http://mith.umd.edu/tile/about"&gt;More Info »&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/6544444523363045138/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/07/text-image-linking-environment-tile.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6544444523363045138"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6544444523363045138"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/07/text-image-linking-environment-tile.html"
+         title="Text-Image Linking Environment (TILE)"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

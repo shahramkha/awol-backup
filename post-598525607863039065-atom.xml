@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-598525607863039065</id>
+   <published>2010-10-25T09:05:00.001-04:00</published>
+   <updated>2010-10-25T09:06:42.740-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Open Licensed Classical Data Canvass</title>
+   <content type="html">Adapted with permission from a message posted by &lt;a href="mailto:gabriel.bodard@KCL.AC.UK"&gt;Gabriel Bodard&lt;/a&gt; on the &lt;a href="http://wiki.digitalclassicist.org/Discussion"&gt;Digital Classicist Discussion List&lt;/a&gt; (10/23/10):&lt;br /&gt;&lt;tt&gt;&lt;br /&gt;&lt;/tt&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;span style="font-size: x-small;"&gt;&lt;tt&gt; I realize I've missed a trick by not posting this during Open Access &lt;/tt&gt;&lt;tt&gt;Week. I've been meaning for a while to canvass this list regarding open &lt;/tt&gt;&lt;tt&gt;licensed Classical data--not just texts that can be freely read online &lt;/tt&gt;&lt;tt&gt;in HTML or PDF, say, but text or data released under a license (Creative &lt;/tt&gt;&lt;tt&gt;Commons, GPL, etc.) that explicitly allows the creative and  &lt;/tt&gt;&lt;tt&gt;transformative re-use of the underlying code (XML, RDF, images, etc.). &lt;/tt&gt;&lt;br /&gt;&lt;tt&gt; &lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;I started compiling this list for a developers' challenge that we held  &lt;/tt&gt;&lt;tt&gt;back in July, and am particularly interested in the possibility of  &lt;/tt&gt;&lt;tt&gt;archiving and re-using this sort of material. &lt;/tt&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="https://spreadsheets.google.com/pub?key=0As1AGmWRrRdUdDBBbXItYmZ3NWJ0RHUtZk1waXd5N3c"&gt;&lt;span class="name"&gt;Open Access Classical Materials&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="https://spreadsheets.google.com/pub?key=0As1AGmWRrRdUdFk0ZVJpRGFhQ1ZSa2tsc1gzRmhNWWc"&gt;&lt;span class="name"&gt;Classical Linked Data&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;tt&gt;&lt;span style="font-size: x-small;"&gt;The first list only includes publications whose underlying data source  is available for download without having to ask permission or enter a  password, and whose license explicitly permits re-use. The Linked Data  list is just stuff that appears to be available for re-use (that's what  &lt;br /&gt;LD is for, after all), but may not have explicit licenses. &lt;br /&gt;&lt;br /&gt;If anybody has or knows of datasets that should be added to either of  these lists, please send them to the &lt;a href="http://wiki.digitalclassicist.org/Discussion"&gt;list&lt;/a&gt; (or &lt;a href="mailto:gabriel.bodard@KCL.AC.UK"&gt;ask me&lt;/a&gt; and I'll give you  permission to edit the Google spreadsheets). &lt;/span&gt; &lt;/tt&gt;&lt;/blockquote&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &amp;quot;&amp;quot;, this.id, this.name);"&gt;&lt;img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"&gt;&lt;/script&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/598525607863039065/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2010/10/open-licensed-classical-data-canvass.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/598525607863039065"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/598525607863039065"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2010/10/open-licensed-classical-data-canvass.html"
+         title="Open Licensed Classical Data Canvass"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

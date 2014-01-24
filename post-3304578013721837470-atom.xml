@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3304578013721837470</id>
+   <published>2013-12-08T21:17:00.000-05:00</published>
+   <updated>2013-12-08T21:17:41.295-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Crowd Source"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">Do You Have Excellent Latin Skills?</title>
+   <content type="html">&lt;a href="http://www.stoa.org/archives/1829" rel="bookmark" title="Permanent Link: Volunteers with excellent Latin sought"&gt;Volunteers with excellent Latin sought&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;... The &lt;a href="http://papyri.info/"&gt;Papyri.info&lt;/a&gt; site includes some  52,000 transcribed texts, of which about 2,000 in Latin, very few  translated into English or any other modern language. The collaborative  editing tool SoSOL (deployed at &lt;a href="http://papyri.info/editor"&gt;papyri.info/editor&lt;/a&gt;) allows users to add to or improve existing editions of papyrological texts, for example by adding new translations.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;If you think you might like to take part in this exercise, take a look for instance at &lt;a href="http://papyri.info/search?DOCS_PER_PAGE=150&amp;amp;SERIES=o.bu.njem"&gt;O. Bu Njem&lt;/a&gt;,  a corpus of 150 ostraka from the Roman military base at Golas in Libya.  The Latin texts (often fragmentary) are already transcribed; do you  think you could produce an English translation of a few of these texts,  which will be credited to you? Would you like a brief introduction to  the SoSOL interface to enable you to add the translations yourself  (pending approval by the editorial board)? ...&lt;/span&gt;&lt;/blockquote&gt;&lt;a href="http://www.stoa.org/archives/1829"&gt;Read the rest!&lt;/a&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/3304578013721837470/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/12/do-you-have-excellent-latin-skills.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3304578013721837470"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3304578013721837470"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/12/do-you-have-excellent-latin-skills.html"
+         title="Do You Have Excellent Latin Skills?"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

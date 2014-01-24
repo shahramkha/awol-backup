@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-9114021213042022977</id>
+   <published>2013-03-31T08:32:00.002-04:00</published>
+   <updated>2013-03-31T08:32:17.663-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">LatinOWL</title>
+   <content type="html">&lt;a href="http://inlustre.net/latinowl/"&gt;LatinOWL&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;Latin OWL is an iOS app for the iPhone, which I have made, and that  you can download for free from the iTunes Store. The program is  copyright 2013 Scot Mcphee.&lt;/span&gt;&lt;br /&gt;  &lt;h2&gt;&lt;span style="font-size: x-small;"&gt;LatinOnlineWordLookup (LatinOWL)&lt;/span&gt;&lt;/h2&gt;&lt;span style="font-size: x-small;"&gt;Can’t work out the root form of a irregular Latin conjugation?  Confused as to whether it’s a 3rd declension neuter plural or a 1st  declension feminine ablative .. or even nominative? Is that 1st/2nd pl.  dative or ablative, or a 3rd m/f sing. genitive? Know how to parse the  form, but don’t know the vocabulary? &lt;strong&gt;There’s an app that that!&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;  &lt;span style="font-size: x-small;"&gt;The Latin Online Word Lookup (LatinOWL) is an iOS app that, by using  data from the Perseus Latin Word Tool, allows a user to lookup any Latin  word, locate the root (i.e. the nominative singular for nouns and  adjectives or the 1st person singular present active indicative for  verbs), and parse the entered form. It gives all possible forms for the  word entered. The tool then links the root(s) to the online Lewis &amp;amp;  Short dictionary from Perseus, and also from that dictionary, provides  links to the works in the Perseus database that are quoted in the  dictionary.&lt;/span&gt;&lt;br /&gt;  &lt;span style="font-size: x-small;"&gt;You can download it from the iTunes App Store for free by clicking on the icon above or by using this link: &lt;a href="https://itunes.apple.com/app/latinowl/id625975054?ls=1&amp;amp;mt=8"&gt;LatinOWL in the iTunes AppStore&lt;/a&gt; (this link should redirect you to your regional store, where you will be able to download it).&lt;/span&gt;&lt;br /&gt;  &lt;span style="font-size: x-small;"&gt;There are a few planned features for future versions, however, some of these &lt;em&gt;may&lt;/em&gt; go only into the iPad version which may not be free, but a buck or two at the most:&lt;/span&gt;&lt;br /&gt;  &lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;save word lookup history&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;save favorite dictionary entries to local storage in the iPhone&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;a much better iPad version that will have afar better way to view  the links to the source works from the dictionary, also better  master/detail views, due to the increase in available screen real estate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;possibly a Macintosh OSX version&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: x-small;"&gt;There won’t be an Android version, I’m not interested in developing  for Android. You can build your own, off my source code (see below).&lt;/span&gt;&lt;br /&gt;&lt;/blockquote&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/9114021213042022977/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/03/latinowl.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/9114021213042022977"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/9114021213042022977"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/03/latinowl.html"
+         title="LatinOWL"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8428307657692185466</id>
+   <published>2013-04-08T17:04:00.003-04:00</published>
+   <updated>2013-04-08T18:47:08.296-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">A Day in the Life of the Digital Humanities</title>
+   <content type="html">I am participating today in &lt;a href="http://dayofdh2013.matrix.msu.edu/"&gt;A Day in the Life of the Digital Humanities&lt;/a&gt;.&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;A Day in the Life of the Digital Humanities (Day of DH) is an open  community publication project that will bring together scholars  interested in the digital humanities from around the world to document  what they do on one day. &amp;nbsp;This year, Day of DH will take place on &lt;b&gt;April 8th&lt;/b&gt;.  The goal of the project is to create a web site that weaves together a  picture of the participant’s activities on the day which answers the  question, “Just what do digital humanists really do?” Participants  &amp;nbsp;document their day through photographs and text, all of which is  published on a community online platform (which, for this year, lives  at&amp;nbsp;&lt;a href="http://dayofdh2013.matrix.msu.edu/"&gt;dayofdh2013.matrix.msu.edu&lt;/a&gt;).  Both during and after the day, people are encouraged to read and  comment on their fellow participant’s posts. &amp;nbsp;Eventually, all the data  will be grouped together, undergo some light semantic editing, and  released for others to study. We hope that, beyond the original online  publication, the raw data will be of use to those interested in further  visualization or digital community ethnographic research. &lt;/span&gt;&lt;/blockquote&gt;My contribution, so far is in the &lt;a href="http://dayofdh2013.matrix.msu.edu/awol/"&gt;participants' blog&lt;/a&gt;, musing on AWOL, thinking aloud (in a manner of speaking), or something...&lt;br /&gt;&lt;br /&gt;Feel free to comment.</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/8428307657692185466/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/04/a-day-in-life-of-digital-humanities.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8428307657692185466"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8428307657692185466"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/04/a-day-in-life-of-digital-humanities.html"
+         title="A Day in the Life of the Digital Humanities"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

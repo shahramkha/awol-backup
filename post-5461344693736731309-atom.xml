@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5461344693736731309</id>
+   <published>2011-11-22T06:21:00.001-05:00</published>
+   <updated>2011-11-22T06:23:24.576-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">"a simple way for authors to compute their citation metrics and track them over time"</title>
+   <content type="html">&lt;h3&gt; &lt;a href="http://googlescholar.blogspot.com/2011/11/google-scholar-citations-open-to-all.html"&gt;&lt;span style="font-weight: normal;"&gt;Google Scholar Citations Open To All&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;blockquote class="tr_bq"&gt;&lt;div class="post-subhead"&gt; &lt;span style="font-size: x-small;"&gt;Wednesday, November 16, 2011 | 8:30 PM &lt;/span&gt;&lt;/div&gt;&lt;div class="post-subhead"&gt; &lt;/div&gt;&lt;span style="font-size: x-small;"&gt;A few months ago, we introduced &lt;a href="http://googlescholar.blogspot.com/2011/07/google-scholar-citations.html"&gt;a limited release of Google Scholar Citations&lt;/a&gt;,  a simple way for authors to compute their citation metrics and track  them over time. Today, we’re delighted to make this service available to  everyone! &lt;a href="http://scholar.google.com/citations?view_op=new_profile&amp;amp;hl=en"&gt;Click here and follow the instructions to get started&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Here’s  how it works. You can quickly identify which articles are yours, by  selecting one or more groups of articles that are computed  statistically. Then, we collect citations to your articles, graph them  over time, and compute your citation metrics - the widely used h-index;  the i-10 index, which is simply the number of articles with at least ten  citations; and, of course, the total number of citations to your  articles. Each metric is computed over all citations and also over  citations in articles published in the last five years.&lt;br /&gt;&lt;br /&gt;Your  citation metrics will update automatically as we find new citations to  your articles on the web. You can also set up automated updates for the  list of your articles, or you can choose to review the suggested  updates. And you can, of course, manually update your profile by adding  missing articles, fixing bibliographic errors, and merging duplicate  entries.&lt;br /&gt;&lt;br /&gt;As one would expect, you can search for profiles of  colleagues, co-authors, or other researchers using their name,  affiliation, or areas of interest, e.g., &lt;a href="http://scholar.google.com/citations?hl=en&amp;amp;view_op=search_authors&amp;amp;mauthors=edu"&gt;researchers at US universities&lt;/a&gt; or &lt;a href="http://scholar.google.com/citations?view_op=search_authors&amp;amp;hl=en&amp;amp;mauthors=label:genomics"&gt;researchers interested in genomics&lt;/a&gt;. You can add links to your co-authors, if they already have a profile, or you can invite them to create one.&lt;br /&gt;&lt;br /&gt;You can also make your profile public, e.g., &lt;a href="http://scholar.google.com/citations?user=kStFxtkAAAAJ&amp;amp;hl=en"&gt;Alex Verstak&lt;/a&gt;, &lt;a href="http://scholar.google.com/citations?user=nGEWZbkAAAAJ&amp;amp;hl=en"&gt;Anurag Acharya&lt;/a&gt;.  If you choose to make your profile public, it can appear in Google  Scholar search results when someone searches for your name, e.g., &lt;a href="http://scholar.google.com/scholar?hl=en&amp;amp;q=alex+verstak&amp;amp;btnG=Search&amp;amp;as_sdt=0%2C5&amp;amp;as_ylo=&amp;amp;as_vis=0"&gt;[alex verstak]&lt;/a&gt;. This will make it easier for your colleagues worldwide to follow your work.&lt;br /&gt;&lt;br /&gt;We  would like to thank the participants in the limited release of Scholar  Citations for their detailed feedback. They were generous with their  time and patient with an early version. Their feedback greatly helped us  improve the service. The key challenge was to make profile maintenance  as hands-free as possible for those of you who prefer the convenience of  automated updates, while providing as much flexibility as possible for  those who prefer to curate their profile themselves.&lt;br /&gt;&lt;br /&gt;Here is  hoping that Google Scholar Citations will help researchers everywhere  view and track the worldwide influence of their own and their  colleagues’ work.&lt;/span&gt;&lt;/blockquote&gt;&lt;span style="font-size: x-small;"&gt;&lt;/span&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/5461344693736731309/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/11/simple-way-for-authors-to-compute-their.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5461344693736731309"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5461344693736731309"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/11/simple-way-for-authors-to-compute-their.html"
+         title="&#34;a simple way for authors to compute their citation metrics and track them over time&#34;"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

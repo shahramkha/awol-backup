@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1626579303544797127</id>
+   <published>2013-01-17T13:57:00.006-05:00</published>
+   <updated>2013-01-17T13:59:08.759-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Perseus Update: Querying the Perseus Ancient Greek and Latin Treebank Data in ANNIS</title>
+   <content type="html">&lt;span style="font-family: inherit;"&gt;&lt;a href="http://sites.tufts.edu/perseusupdates/2013/01/17/querying-the-perseus-ancient-greek-and-latin-treebank-data-in-annis/"&gt;Querying the Perseus Ancient Greek and Latin Treebank Data in ANNIS&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;div class="entry-meta"&gt;&lt;span style="font-family: inherit;"&gt;&lt;span class="meta-sep"&gt;by&lt;/span&gt; &lt;span class="author vcard"&gt;&lt;a class="url fn n" href="http://sites.tufts.edu/perseusupdates/author/balmas01/" title="View all posts by Bridget  Almas"&gt;Bridget  Almas&lt;/a&gt;&lt;/span&gt; &lt;span class="meta-prep meta-prep-author"&gt;Posted on&lt;/span&gt; &lt;a href="http://sites.tufts.edu/perseusupdates/2013/01/17/querying-the-perseus-ancient-greek-and-latin-treebank-data-in-annis/" rel="bookmark" title="12:49 pm"&gt;&lt;span class="entry-date"&gt;January 17, 2013&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;      &lt;/div&gt;&lt;span style="font-family: inherit;"&gt;                 &lt;/span&gt;&lt;br /&gt;&lt;div class="entry-content"&gt;&lt;span style="font-family: inherit;"&gt;      &lt;/span&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-family: inherit;"&gt;&lt;span style="font-size: x-small;"&gt;We are pleased to announce the availability of the &lt;a href="http://annis.perseus.tufts.edu/" title="Perseus Annis Environment"&gt;Perseus ANNIS Environment&lt;/a&gt; for searching the syntactical data in the &lt;a href="http://nlp.perseus.tufts.edu/syntax/treebank/"&gt;Perseus Ancient Greek and Latin Treebanks&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt; &lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-family: inherit;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://www.sfb632.uni-potsdam.de/d1/annis/overtab.html"&gt;ANNIS&lt;/a&gt; is an open source, versatile web browser-based search and visualization  architecture for complex multilevel linguistic corpora with diverse  types of annotation.&lt;/span&gt;&lt;/span&gt; &lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-family: inherit;"&gt;&lt;span style="font-size: x-small;"&gt;The &lt;a href="http://nlp.perseus.tufts.edu/syntax/treebank/greek.html"&gt;Perseus Ancient Greek Dependency Treebank&lt;/a&gt; includes the entirety of Homer’s &lt;i&gt;Iliad&lt;/i&gt; and &lt;i&gt;Odyssey&lt;/i&gt;; Sophocles’ &lt;i&gt;Ajax&lt;/i&gt;, &lt;i&gt;Antigone&lt;/i&gt;, &lt;i&gt;Electra&lt;/i&gt;, &lt;i&gt;Oedipus Tyrannus&lt;/i&gt; and &lt;i&gt;Trachinae&lt;/i&gt;; Plato’s &lt;i&gt;Euthyphro&lt;/i&gt;; and all of the works of Hesiod and Aeschylus – a total of 354,529 words. The &lt;a href="http://nlp.perseus.tufts.edu/syntax/treebank/latin.html"&gt;Perseus Latin Dependency Treebank&lt;/a&gt; includes 53,143 words from eight authors, including &lt;i&gt;Caesar&lt;/i&gt;, &lt;i&gt;Cicero, Jerome, Ovid, Petronius, &lt;i&gt;Propertius,&lt;/i&gt; Sallust &lt;/i&gt;and&lt;i&gt; Vergil.&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;/div&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/1626579303544797127/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/01/persepus-update-querying-perseus.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1626579303544797127"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1626579303544797127"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/01/persepus-update-querying-perseus.html"
+         title="Perseus Update: Querying the Perseus Ancient Greek and Latin Treebank Data in ANNIS"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

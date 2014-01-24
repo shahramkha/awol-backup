@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6825373658030341483</id>
+   <published>2012-09-22T03:16:00.000-04:00</published>
+   <updated>2012-09-22T14:38:54.444-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
+   <title type="text">A digital base map of the Greco-Roman world</title>
+   <content type="html">As announced on various lists:&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;Dear all,&lt;br /&gt;&lt;br /&gt;Colleagues may be interested to learn of a new online resource that is now available and free to use.&lt;br /&gt;&lt;br /&gt;Some of you may have been aware of the ongoing efforts in the Digital  Classics community to use digital technology to visualise and help  understanding of the geography of the ancient world. Projects such as  Pleiades (&lt;a href="http://pleiades.stoa.org/" target="_blank"&gt;http://pleiades.stoa.org/&lt;/a&gt;), a gazetteer and graph of ancient places, for example, or Harvard's Digital Atlas of Roman and Medieval Civilization (&lt;a href="http://darmc.harvard.edu/icb/icb.do" target="_blank"&gt;http://darmc.harvard.edu/icb/icb.do&lt;/a&gt;), which is a layered historical atlas, or Antiquity À-la-carte (&lt;a href="http://bioapps.its.unc.edu/projects/awmc/alacarte/carte.html" target="_blank"&gt;http://bioapps.its.unc.edu/projects/awmc/alacarte/carte.html&lt;/a&gt;), an online GIS application.&lt;br /&gt;&lt;br /&gt;Today the Pelagios team are pleased to announce the latest digital map,  built on these previous initiatives and the magisterial Barrington  Atlas. What marks this work out is the fact that its map tiles can be  used as a background layer for use in a fashion similar to modern  mapping applications like Google Maps. We are releasing these map tiles  under a CC-BY license, which means that anyone is allowed not only to  browse the map but also to use the tiles for presenting their own data  or for building on them their own applications.&lt;br /&gt;&lt;br /&gt;The basic background map (using Google Maps API) can be accessed here: &lt;a _blank="_blank" href="http://pelagios.dme.ait.ac.at/maps/greco-roman/"&gt;http://pelagios.dme.ait.ac.at/maps/greco-roman/&lt;/a&gt;&lt;br /&gt;Information about the making of the map, sources of geodata, and a legend to the symbols, can be found here: &lt;a _blank="_blank" href="http://pelagios.dme.ait.ac.at/maps/greco-roman/about.html"&gt;http://pelagios.dme.ait.ac.at/maps/greco-roman/about.html&lt;/a&gt;&lt;br /&gt;And for a fully interactive implementation of the digital map, which  shows one of the many ways it might be used, see here:  francia.ahlfeldt.se/imperium.php&lt;br /&gt;&lt;br /&gt;Work on creating these digital map tiles, made possible by the Pelagios  project, has been carried out by Johan Åhlfeldt of Regnum Francorum  Online (&lt;a href="http://www.francia.ahlfeldt.se/index.php" target="_blank"&gt;http://www.francia.ahlfeldt.se/index.php&lt;/a&gt;).  We would like to thank Johan for this massive undertaking, our funders  JISC, and the many other people in the Digital Classics community (esp.  those at Pleiades) for making this possible.&lt;br /&gt;&lt;br /&gt;For those of you who would like more information about the work carried out, Johan has blogged about it here: &lt;a href="http://pelagios-project.blogspot.co.uk/2012/09/a-digital-map-of-roman-empire.html" target="_blank"&gt;http://pelagios-project.blogspot.co.uk/2012/09/a-digital-map-of-roman-empire.html&lt;/a&gt;.  We see this initiative as part of an ongoing collaborative enterprise  and we make every effort to improving this as a resource. In due course,  the Pelagios partners will be populating the map with links to online  resources related to the ancient places represented. In the meantime we  welcome feedback.&lt;br /&gt;&lt;br /&gt;best wishes&lt;br /&gt;&lt;br /&gt;elton&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;---------------------------------------------------------------------------------------------------------------&lt;br /&gt;Elton Barker, Department of Classical Studies, The Open University, Milton Keynes MK7 6AA&lt;br /&gt;Research Fellow of the Alexander von Humboldt Foundation, Freie Universität Berlin&lt;/span&gt;&lt;/blockquote&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/6825373658030341483/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/09/a-digital-base-map-of-greco-roman-world.html#comment-form"
+         title="2 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6825373658030341483"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6825373658030341483"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/09/a-digital-base-map-of-greco-roman-world.html"
+         title="A digital base map of the Greco-Roman world"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>2</thr:total>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5106362725230198051</id>
+   <published>2009-04-08T10:15:00.000-04:00</published>
+   <updated>2013-02-14T19:26:08.206-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="commercial publisher"/>
+   <category scheme="http://www.blogger.com/atom/ns#"
+             term="ASOR open access journal"/>
+   <title type="text">de Gruyter Open Library</title>
+   <content type="html">An interesting and welcome announcement is circulating from Walter de Gryuter about their new &lt;a href="http://www.degruyter.com/dg/page/16/de-gruyter-open-library"&gt;&lt;i&gt;de Gruyter Open Library&lt;/i&gt;&lt;/a&gt;:&lt;br /&gt;&lt;blockquote&gt;&lt;span style="font-size: x-small;"&gt;In order to support innovations in scientific publishing Walter de Gruyter is pleased to announce the introduction of an enhanced feature in its publications: de Gruyter Open Library.  Effective immediately, authors of journal articles and book chapters in collected volumes and series titles have the option of making their accepted articles freely accessible on the service Reference Global.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style="font-size: x-small;"&gt;de Gruyter Open Library will be offered in addition to the subscription or purchase-based publication channels, which remain free of charge to authors.  This will result in a mixture of traditionally published and open access articles within the online version of journals and ebooks.  Open access articles will be clearly indicated on the online's list of contents.  Online, print and combined subscription options will continue to be available to institutions and individuals.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style="font-size: x-small;"&gt;de Gruyter Open Library is only available to authors whose articles have been accepted for publication.  Therefore, all submitted papers will continue to undergo the established, entirely independent peer-review processes.&lt;/span&gt;&lt;/blockquote&gt;To be included in the Open Library authors or their institutions or funding  agencies will be required to pay an access fee of 1,750 Euro.&lt;br /&gt;&lt;br /&gt;At first glance the project mentions only "journal articles and book chapters in collected volumes and series titles".  Likewise it seems that the project is entirely prospective.  One hopes that they will eventually include mongraphs and pack-list titles.&lt;br /&gt;&lt;br /&gt;De Gryuter has a very strong list in &lt;a href="http://www.degruyter.com/cont/fb/at/atEn.cfm"&gt;Classical and Ancient Near Eastern Studies&lt;/a&gt;, and a not inconsiderable number of these titles are &lt;a href="http://www.reference-global.com/action/showPublications?display=bySubject&amp;amp;category=20029336&amp;amp;collapse=20029336"&gt;available online&lt;/a&gt; by license already.&lt;br /&gt;&lt;br /&gt;At the moment there does not seem to be a limiter allowing users to identify open access material in the &lt;a href="http://www.reference-global.com/search/advanced"&gt;search tools&lt;/a&gt; available via &lt;a href="http://www.reference-global.com/"&gt;Global Reference&lt;/a&gt;.</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/5106362725230198051/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/04/de-gruyter-open-library.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5106362725230198051"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5106362725230198051"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/04/de-gruyter-open-library.html"
+         title="de Gruyter Open Library"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

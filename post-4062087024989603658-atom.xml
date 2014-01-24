@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4062087024989603658</id>
+   <published>2011-05-19T09:37:00.000-04:00</published>
+   <updated>2011-05-19T09:37:33.255-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Formal Launch of CLAROS</title>
+   <content type="html">&lt;div style="font-family: inherit;"&gt;&lt;a href="http://explore.clarosnet.org/XDB/ASP/clarosHome/"&gt;CLAROS&lt;/a&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div style="font-family: inherit;"&gt;&lt;span style="font-size: x-small;"&gt;CLAROS launched its first public service on May 17th with a &lt;a href="http://www.clarosnet.org/"&gt;web-based explorer interface&lt;/a&gt;, and a &lt;a href="http://data.clarosnet.org/"&gt;data-oriented service.&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Based at the e-Research Centre in Oxford, CLAROS is an international  research collaboration to enable simultaneous searching of major  collections of digital material about archaeology and art in university  research institutes and museums. It contains material from a wide range  of data partners, including the Beazley Archive, various digital  archives in the Ashmolean Museum, the Arachne archive, the Lexicon of  Greek Personal Names, and the Lexicon Iconographicum Mythologiae  Classicae, recording over 2 million objects, places, photographs, and  people. &lt;/span&gt; &lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;br /&gt;CLAROS is a resource discovery service, and its job is to provide  cacheing, indexing, querying and visualization services. The working  practice is one of federation. CLAROS ingests a catalogue of records  from each data partner and amalgamates it into a single entity, but for  more detailed information about a hit we return to the original web site  of the partner. CLAROS data is modelled using RDF against the CIDOC CRM  ontology, and can be accessed using an open SPARQL endpoint, as well as  the powerful web site. &lt;/span&gt; &lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;br /&gt;CLAROS is work in progress, with more data partners to come, and  large amounts of work to be done on both internal linking, and linking  to the wider semantic web. The first fruit of this will be completion of  work to join up the places inside CLAROS with those in &lt;/span&gt; &lt;span style="font-size: x-small;"&gt;&lt;a href="http://www.geonames.org/"&gt;geonames&lt;/a&gt; and &lt;a href="http://pleiades.stoa.org/"&gt;Pleiades&lt;/a&gt;. &lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/4062087024989603658/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/05/formal-launch-of-claros.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4062087024989603658"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4062087024989603658"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/05/formal-launch-of-claros.html"
+         title="Formal Launch of CLAROS"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>

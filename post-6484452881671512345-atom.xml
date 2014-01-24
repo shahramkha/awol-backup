@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6484452881671512345</id>
+   <published>2009-12-21T11:11:00.000-05:00</published>
+   <updated>2009-12-21T11:21:55.312-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">CDLI Old Assyrian files</title>
+   <content type="html">&lt;span style="font-weight: bold;"&gt;Inclusion in CDLI of Old Assyrian files&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Members of the &lt;a href="http://cdli.ucla.edu/"&gt;Cuneiform Digital Library Initiative&lt;/a&gt;, supported in part by a generous grant from the Mellon Foundation (project: &lt;i&gt;Creating a Sustainable Digital Cuneiform Library&lt;/i&gt;), have collaborated with leading experts in Old Assyrian studies to coordinate the digital capture and web dissemination of Old Assyrian documents held in numerous public and private collections worldwide. These clay tablets, excavated in modern Turkey, record the 20th century BC dealings, personal and professional, of a set of traders from the distant capital city Assur, and have for many decades been at the center of an extended discussion of long-distance trade in the ancient world.  In total, more than 4650 transliterations of Old Assyrian records were made available to CDLI by specialists in Old Assyrian research. The conversion of these legacy files to CDLI's &lt;a style="font-style: italic;" href="http://cdl.museum.upenn.edu/doc/ATF/"&gt;ASCII Transliteration Format&lt;/a&gt; (ATF) required a substantial effort by project collaborators Jacob Dahl (Oxford), Bob Englund, Marjan Yahyanejad (both UCLA), and Steve Tinney (UPenn). We are acutely aware of the fact that, despite our work, these transliterations still contain a substantial number of errors, both those remaining from original files and those introduced through our automatic and manual text conversion. In particular, irregularly coded text preservation markers resulted, in conversion, in the designation as broken (with brackets [...]) of transliteration that is in fact preserved on the text. Further, the important word separators (small vertical wedges, designated in our files with the forward slash "/") had to be reconstituted after a conversion error, and some number may have been missed in correction. These errors will in time be removed by further collation with the original files, or by exploiting the increased online access to hand copies and to images of original tablets (below). But the now fairly consistent transliterations represent a substantial new set of research tools for specialists as well as for web users with general linguistic interests, and it would make no sense to us to withhold them from general web access due to the caveats we feel we should make to users.&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;In conjunction with the conversion and processing of transliterations and catalogue entries, CDLI staff and collaborators in Los Angeles, Berlin and Oxford have begun with the processing and posting of image data documenting the corpus. The inclusion in CDLI pages of available published hand copies of texts, and of images of original tablets, facilitates the ongoing transliteration and collation work of collaborators in this project. Line art copies are being processed by UCLA staff, while Jacob Dahl (Oxford) and Mellon postdoctoral associate Christina Tsouparopoulou (Max Planck Institute for the History of Science, Berlin) have imaged some numbers of original tablets. The full Old Assyrian digital files of CDLI (currently ca. 5550 entries) are viewable at &lt;a href="http://tinyurl.com/yzqewkt" target="1"&gt;http://tinyurl.com/yzqewkt&lt;/a&gt;, and we have put up a complete text file of available and converted Old Assyrian transliterations, together with sign and word lists, at &lt;a href="http://cdli.ucla.edu/downloads.html" target="1"&gt;http://cdli.ucla.edu/downloads.html&lt;/a&gt;; we note that Steve Tinney is preparing an updated RTF convertor for ATF files that will produce nicely formatted text processor (RTF) facsimiles of transliterations for use in publications.&lt;br /&gt;&lt;br /&gt;Any assistance that AWOL readers can give us in scanning, or merely in gaining access to further Old Assyrian exemplars so that CDLI can perform their digital capture, would be greatly appreciated.&lt;br /&gt;&lt;br /&gt;Robert K. Englund, University of California, Los Angeles&lt;br /&gt;Jacob L. Dahl, Oxford University&lt;br /&gt;&lt;span style="font-size:85%;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;div style="text-align: center;"&gt;&lt;span style="font-size:85%;"&gt;&lt;a href="http://ancientworldonline.blogspot.com/2009/10/open-access-digital-library-cuneiform.html"&gt;[CDLI entry in AWOL&lt;/a&gt;]&lt;/span&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;</content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/6484452881671512345/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/12/cdli-old-assyrian-files.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6484452881671512345"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6484452881671512345"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/12/cdli-old-assyrian-files.html"
+         title="CDLI Old Assyrian files"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
+                width="32"
+                height="32"
+                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
+   </author>
+   <thr:total>0</thr:total>
+</entry>
