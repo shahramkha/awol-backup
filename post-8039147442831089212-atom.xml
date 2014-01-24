@@ -12,7 +12,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Lexicography"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
    <title type="text">William Whitaker's Words Online</title>
-   <content type="html">&lt;a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;/a&gt;&lt;a href="http://lysy2.archives.nd.edu/cgi-bin/words.exe"&gt;William Whitaker's Words&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;William Whitaker's Words is a computer program that parses the inflection or conjugation of a Latin word, and also translates the root into English. Given an English word, the program outputs Latin translations. The software, written in Ada, is free for download but can be used online through several different hosts as well.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;This program, especially the online version, has gained popularity among Latinists because of its simple interface, high coverage of the Latin lexicon and mostly accurate results. Nevertheless, the user has to check the results, since Words uses a set of rules based on natural pre-, in-, and suffixation, declension, and conjugation to determine the possibility of an entry. As a consequence of this approach of analysing the structure of words, there is no guarantee that these words were ever used in Latin literature or speech, even if the program finds a possible meaning to a given word. [&lt;a href="http://en.wikipedia.org/wiki/William_Whitaker%27s_Words"&gt;Courtesy of Wikipedia&lt;/a&gt;]&lt;/span&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[<a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a><a href="http://lysy2.archives.nd.edu/cgi-bin/words.exe">William Whitaker's Words</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">William Whitaker's Words is a computer program that parses the inflection or conjugation of a Latin word, and also translates the root into English. Given an English word, the program outputs Latin translations. The software, written in Ada, is free for download but can be used online through several different hosts as well.</span><br /><br /><span style="font-size: x-small;">This program, especially the online version, has gained popularity among Latinists because of its simple interface, high coverage of the Latin lexicon and mostly accurate results. Nevertheless, the user has to check the results, since Words uses a set of rules based on natural pre-, in-, and suffixation, declension, and conjugation to determine the possibility of an entry. As a consequence of this approach of analysing the structure of words, there is no guarantee that these words were ever used in Latin literature or speech, even if the program finds a possible meaning to a given word. [<a href="http://en.wikipedia.org/wiki/William_Whitaker%27s_Words">Courtesy of Wikipedia</a>]</span></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/8039147442831089212/comments/default"
@@ -35,10 +35,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

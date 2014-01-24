@@ -11,7 +11,7 @@
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
    <title type="text">ArchaeoSeek: A Social Network for Archaeologists</title>
-   <content type="html">&lt;a href="http://www.archaeoseek.com/"&gt;ArchaeoSeek: A Social Network for Archaeologists&lt;/a&gt;&lt;br /&gt;&lt;div id="xg_masthead"&gt;                    &lt;blockquote class="tr_bq"&gt;&lt;div id="xg_sitename"&gt;&lt;a href="http://www.archaeoseek.com/" id="application_name_header_link"&gt;&lt;img alt="ArchaeoSeek" src="http://api.ning.com:80/files/XfsrGES94CFKNZ6yokWbSBvLULnYjVvxYSBbdMQx4eJNzg2qAg4gP8ik4SgLFV0algHuXYjVZwYSvtcEmCkp8w__/aseeklogo13.gif?width=506&amp;amp;height=106&amp;amp;xn_auth=no&amp;amp;type=gif" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;ArchaeoSeek is the place to discuss archaeological issues, sites,  excavations, and field schools. Please use your real name to join.           &lt;/span&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.archaeoseek.com/">ArchaeoSeek: A Social Network for Archaeologists</a><br /><div id="xg_masthead">                    <blockquote class="tr_bq"><div id="xg_sitename"><a href="http://www.archaeoseek.com/" id="application_name_header_link"><img alt="ArchaeoSeek" src="http://api.ning.com:80/files/XfsrGES94CFKNZ6yokWbSBvLULnYjVvxYSBbdMQx4eJNzg2qAg4gP8ik4SgLFV0algHuXYjVZwYSvtcEmCkp8w__/aseeklogo13.gif?width=506&amp;height=106&amp;xn_auth=no&amp;type=gif" /></a></div></blockquote></div><blockquote class="tr_bq"><span style="font-size: x-small;">ArchaeoSeek is the place to discuss archaeological issues, sites,  excavations, and field schools. Please use your real name to join.           </span></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/7684735312244059192/comments/default"
@@ -34,10 +34,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

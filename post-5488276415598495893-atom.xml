@@ -14,7 +14,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Theban Necropolis"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
    <title type="text">Theban Tombs Satellite Mapping Project Online</title>
-   <content type="html">&lt;a href="http://maps.cofc.edu/website/olgis2009/viewer.htm"&gt;Theban Tombs Satellite Mapping Project&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;Welcome to the Theban Tombs Satellite Mapping Project! The map is designed to be an interactive experience for users. You will be able to zoom in and out, view information about buildings and parking lots, and print out findings. &lt;a href="http://maps.cofc.edu/website/olgis2009/images/helpmenu.pdf"&gt;This menu&lt;/a&gt; is to help you to understand the functions of the map in order to provide a more fulfilling experience! &lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;</content>
+   <content type="html"><![CDATA[<a href="http://maps.cofc.edu/website/olgis2009/viewer.htm">Theban Tombs Satellite Mapping Project</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Welcome to the Theban Tombs Satellite Mapping Project! The map is designed to be an interactive experience for users. You will be able to zoom in and out, view information about buildings and parking lots, and print out findings. <a href="http://maps.cofc.edu/website/olgis2009/images/helpmenu.pdf">This menu</a> is to help you to understand the functions of the map in order to provide a more fulfilling experience! </span></blockquote><br />]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/5488276415598495893/comments/default"
@@ -37,10 +37,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

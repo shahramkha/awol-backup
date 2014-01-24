@@ -13,7 +13,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Athens"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
    <title type="text">The Acropolis of Athens Virtual Tour</title>
-   <content type="html">&lt;a href="http://acropolis-virtualtour.gr/"&gt;The Acropolis of Athens Virtual Tour&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;The Virtual Tour of the Acropolis is an interactive website that allows  various aspects of the historical site to be explored in a unique way.  It consists of high-resolution gigapixel images and panoramas of the  four main monuments - the Parthenon, the Propylaia, the Erechtheion and  the Temple of Athena Nike - as well as a detailed photographic  representation of the inner and outer ancient walls surrounding the  hill, all accompanied by historical information and a descriptive map.   The images offer a full zoom in towards details of the moments otherwise  difficult to reach, an overview of the location of the monument with  respect to its surroundings, or even a virtual "walk" through the site.  The user is given the opportunity to exploit task-specific applications  or create more personalized approaches, being in overall immersed into a  virtual visit of the Acropolis.&amp;nbsp;        &lt;/span&gt;&lt;/blockquote&gt;&lt;div style="text-align: center;"&gt;&lt;a href="http://pleiades.stoa.org/places/579885"&gt;Athens in Pleiades&lt;/a&gt; &lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://acropolis-virtualtour.gr/">The Acropolis of Athens Virtual Tour</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The Virtual Tour of the Acropolis is an interactive website that allows  various aspects of the historical site to be explored in a unique way.  It consists of high-resolution gigapixel images and panoramas of the  four main monuments - the Parthenon, the Propylaia, the Erechtheion and  the Temple of Athena Nike - as well as a detailed photographic  representation of the inner and outer ancient walls surrounding the  hill, all accompanied by historical information and a descriptive map.   The images offer a full zoom in towards details of the moments otherwise  difficult to reach, an overview of the location of the monument with  respect to its surroundings, or even a virtual "walk" through the site.  The user is given the opportunity to exploit task-specific applications  or create more personalized approaches, being in overall immersed into a  virtual visit of the Acropolis.&nbsp;        </span></blockquote><div style="text-align: center;"><a href="http://pleiades.stoa.org/places/579885">Athens in Pleiades</a> </div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/8361688609283164701/comments/default"
@@ -36,10 +36,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">News from Achemenet</title>
-   <content type="html">Retrouvez toute l’&lt;a href="http://www.achemenet.com/bookmark.do?link=news-feb12"&gt;actualité du site Achemenet&lt;/a&gt;:&lt;br /&gt;        &lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;&lt;b&gt;média en ligne&lt;/b&gt;&lt;br /&gt;&lt;b&gt;        &lt;/b&gt;Les vidéos des quatre conférences de Michael Jursa au         Collège de France sont en ligne (10, 17, 24 et 31 janvier 2012):&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.college-de-france.fr/site/pierre-briant/Conference_du_10_janvier_2012_.htm" target="_blank"&gt;1.             Achaemenid Babylonia: Political History and Administration&lt;/a&gt;        &lt;br /&gt;&lt;a href="http://www.college-de-france.fr/site/pierre-briant/conference-du-17-janvier-2012-michael-jursa-babylonia-in-the-wider-context-of-the-achaemenid-empire.htm" target="_blank"&gt;2.             Babylonia in the wider context of the Achaemenid Empire&lt;/a&gt; &lt;br /&gt;&lt;a href="http://www.college-de-france.fr/site/pierre-briant/conferencier_du_24_janvier_201.htm" target="_blank"&gt;3.             Aspects of the social and economic history of Babylonia under           persian rule &lt;/a&gt;&lt;br /&gt;&lt;a href="http://www.college-de-france.fr/site/pierre-briant/conference-du-31-janvier-2012-michael-jursa-continuities-and-ruptures-in-the-history-of-achaemenid-babylonia.htm" target="_blank"&gt;4.             Continuities and ruptures in the history of Achaemenid           Babylonia&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[Retrouvez toute l’<a href="http://www.achemenet.com/bookmark.do?link=news-feb12">actualité du site Achemenet</a>:<br />        <br /><blockquote class="tr_bq"><span style="font-size: x-small;"><b>média en ligne</b><br /><b>        </b>Les vidéos des quatre conférences de Michael Jursa au         Collège de France sont en ligne (10, 17, 24 et 31 janvier 2012):<br /><br /><a href="http://www.college-de-france.fr/site/pierre-briant/Conference_du_10_janvier_2012_.htm" target="_blank">1.             Achaemenid Babylonia: Political History and Administration</a>        <br /><a href="http://www.college-de-france.fr/site/pierre-briant/conference-du-17-janvier-2012-michael-jursa-babylonia-in-the-wider-context-of-the-achaemenid-empire.htm" target="_blank">2.             Babylonia in the wider context of the Achaemenid Empire</a> <br /><a href="http://www.college-de-france.fr/site/pierre-briant/conferencier_du_24_janvier_201.htm" target="_blank">3.             Aspects of the social and economic history of Babylonia under           persian rule </a><br /><a href="http://www.college-de-france.fr/site/pierre-briant/conference-du-31-janvier-2012-michael-jursa-continuities-and-ruptures-in-the-history-of-achaemenid-babylonia.htm" target="_blank">4.             Continuities and ruptures in the history of Achaemenid           Babylonia</a></span></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/1991341546844903139/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

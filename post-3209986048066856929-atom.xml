@@ -11,7 +11,7 @@
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
    <title type="text">Open Access Journal:  NABU</title>
-   <content type="html">&lt;span style="font-size: x-small;"&gt;[First posted in AWOL 16 December 2009. Updated 14 December 2011] &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.achemenet.com/bookmark.do?link=nabu"&gt;Nouvelles Assyriologiques Brèves et Utilitaires (NABU) [articles pertaining to the 1st. mill. BCE]&lt;/a&gt;&lt;br /&gt;ISSN: 0989-5671 &lt;br /&gt;&lt;span style="font-size: 85%;"&gt;&lt;/span&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;span style="font-size: 85%;"&gt;NABU notes pertaining to the first Millennium are available online at &lt;a href="http://www.achemenet.com/"&gt;Achemenet&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 85%;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;div style="text-align: center;"&gt;See the full &lt;a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"&gt;List of Open Access Journals in Ancient Studies&lt;/a&gt;.&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<span style="font-size: x-small;">[First posted in AWOL 16 December 2009. Updated 14 December 2011] </span><br /><br /><a href="http://www.achemenet.com/bookmark.do?link=nabu">Nouvelles Assyriologiques Brèves et Utilitaires (NABU) [articles pertaining to the 1st. mill. BCE]</a><br />ISSN: 0989-5671 <br /><span style="font-size: 85%;"></span><br /><blockquote><span style="font-size: 85%;">NABU notes pertaining to the first Millennium are available online at <a href="http://www.achemenet.com/">Achemenet</a></span><br /><span style="font-size: 85%;"><br /></span></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a>.</div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3209986048066856929/comments/default"
@@ -34,13 +34,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
-   <georss:featurename>Paris, France</georss:featurename>
-   <georss:point>48.856614 2.3522219</georss:point>
-   <georss:box>48.773036 2.1942934 48.940192 2.5101504</georss:box>
 </entry>

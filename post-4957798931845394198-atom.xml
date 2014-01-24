@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Graphic: Quantifying Digital Humanities</title>
-   <content type="html">&lt;div class="description"&gt;I urge you to read Melissa Terras' &lt;a href="http://melissaterras.blogspot.com/2011/11/stats-and-digital-humanities.html"&gt;Stats and the Digital Humanities&lt;/a&gt;, from her blog    &lt;a href="http://melissaterras.blogspot.com/2011/11/stats-and-digital-humanities.html"&gt;Melissa Terras' Blog: &lt;/a&gt;&lt;a href="http://melissaterras.blogspot.com/"&gt;Adventures in Digital Humanities and digital cultural heritage. Plus some musings on academia&lt;/a&gt;. It includes her&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="http://www.flickr.com/photos/ucldh/6730021199/sizes/o/in/photostream/"&gt;Infographic Quantifying Digital Humanities&lt;/a&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;img alt="http://2.bp.blogspot.com/-gakfVK3t4m8/Txk97M2qamI/AAAAAAAAAYw/3nVtD0Wgocs/s400/DigitalHumanitiesInfographic.jpg" src="http://2.bp.blogspot.com/-gakfVK3t4m8/Txk97M2qamI/AAAAAAAAAYw/3nVtD0Wgocs/s400/DigitalHumanitiesInfographic.jpg" /&gt;&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="http://www.ucl.ac.uk/infostudies/melissa-terras/DigitalHumanitiesInfographic.pdf"&gt;A 300dpi print version is also available &lt;/a&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<div class="description">I urge you to read Melissa Terras' <a href="http://melissaterras.blogspot.com/2011/11/stats-and-digital-humanities.html">Stats and the Digital Humanities</a>, from her blog    <a href="http://melissaterras.blogspot.com/2011/11/stats-and-digital-humanities.html">Melissa Terras' Blog: </a><a href="http://melissaterras.blogspot.com/">Adventures in Digital Humanities and digital cultural heritage. Plus some musings on academia</a>. It includes her<br /></div><div style="text-align: center;"><a href="http://www.flickr.com/photos/ucldh/6730021199/sizes/o/in/photostream/">Infographic Quantifying Digital Humanities</a></div><div style="text-align: center;"><br /></div><div style="text-align: center;"><img alt="http://2.bp.blogspot.com/-gakfVK3t4m8/Txk97M2qamI/AAAAAAAAAYw/3nVtD0Wgocs/s400/DigitalHumanitiesInfographic.jpg" src="http://2.bp.blogspot.com/-gakfVK3t4m8/Txk97M2qamI/AAAAAAAAAYw/3nVtD0Wgocs/s400/DigitalHumanitiesInfographic.jpg" />&nbsp;</div><div style="text-align: center;"><br /></div><div style="text-align: center;"><a href="http://www.ucl.ac.uk/infostudies/melissa-terras/DigitalHumanitiesInfographic.pdf">A 300dpi print version is also available </a></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/4957798931845394198/comments/default"
@@ -33,14 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/"
-                    url="http://2.bp.blogspot.com/-gakfVK3t4m8/Txk97M2qamI/AAAAAAAAAYw/3nVtD0Wgocs/s72-c/DigitalHumanitiesInfographic.jpg"
-                    height="72"
-                    width="72"/>
-   <thr:total>0</thr:total>
 </entry>

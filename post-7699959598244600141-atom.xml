@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Oxford University Research Archive</title>
-   <content type="html">David Gimbel brings the news that his doctoral dissertation is now available to the public in PDF form through the Oxford University Research Archive.&lt;br /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;img alt="http://ora.ox.ac.uk/oramainlogo.png" class="decoded" src="http://ora.ox.ac.uk/oramainlogo.png" /&gt; &lt;/div&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;Gimbel, David Nelson, (2002). &lt;a href="http://ora.ox.ac.uk/objects/uuid:209a8832-9e13-494d-946e-016ba9aa215c"&gt;The Evolution of Visual Representation: The elite art of early dynastic Lagaš and its antecedents in late Uruk period Sumer and predynastic Egypt&lt;/a&gt;. D. Phil. University of Oxford.&lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;A quick search indicates that many other useful open access publications are also available in the &lt;a href="http://ora.ox.ac.uk/"&gt;Oxford University Research Archive&lt;/a&gt;. Go and see for yourself.</content>
+   <content type="html"><![CDATA[David Gimbel brings the news that his doctoral dissertation is now available to the public in PDF form through the Oxford University Research Archive.<br /><br /><div style="text-align: center;"><img alt="http://ora.ox.ac.uk/oramainlogo.png" class="decoded" src="http://ora.ox.ac.uk/oramainlogo.png" /> </div><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Gimbel, David Nelson, (2002). <a href="http://ora.ox.ac.uk/objects/uuid:209a8832-9e13-494d-946e-016ba9aa215c">The Evolution of Visual Representation: The elite art of early dynastic Lagaš and its antecedents in late Uruk period Sumer and predynastic Egypt</a>. D. Phil. University of Oxford.</span></blockquote><br />A quick search indicates that many other useful open access publications are also available in the <a href="http://ora.ox.ac.uk/">Oxford University Research Archive</a>. Go and see for yourself.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/7699959598244600141/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

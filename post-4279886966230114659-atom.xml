@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Linked Ancient World Data Institute (LAWDI)</title>
-   <content type="html">&lt;a href="http://isaw.nyu.edu/about/news/lawdi"&gt;Apply now for linked ancient world data institute&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span id="contentTopLeft"&gt;&lt;/span&gt;                    &lt;span id="contentTopRight"&gt;&lt;/span&gt;                                                                                &lt;span style="font-size: x-small;"&gt;ISAW will host the &lt;i&gt;Linked Ancient World Data Institute&lt;/i&gt; (LAWDI) from May 31st to June 2nd, 2012 in New York City. Applications are due 17 February 2012.&amp;nbsp;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;LAWDI, funded by the &lt;a class="external-link" href="http://www.neh.gov/odh/"&gt;Office of Digital Humanities of the National Endowment for Humanities&lt;/a&gt;, will bring together an international faculty of practitioners working in the field of &lt;a class="external-link" href="http://en.wikipedia.org/wiki/Linked_data"&gt;Linked Data&lt;/a&gt; with twenty attendees who are implementing or planning the creation of digital resources.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;More information, including a list of faculty, and application instructions are available at the &lt;a class="external-link" href="http://wiki.digitalclassicist.org/Linked_Ancient_World_Data_Institute"&gt;LAWDI page on the Digital Classicist wiki&lt;/a&gt;.&lt;/span&gt;&lt;/blockquote&gt;&lt;div id="content" style="margin-top: 54px;"&gt;&lt;div class="RatingViewlet"&gt;&lt;/div&gt;&lt;div id="content-core"&gt;&lt;div class="plain" id="parent-fieldname-text"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://isaw.nyu.edu/about/news/lawdi">Apply now for linked ancient world data institute</a><br /><blockquote class="tr_bq"><span id="contentTopLeft"></span>                    <span id="contentTopRight"></span>                                                                                <span style="font-size: x-small;">ISAW will host the <i>Linked Ancient World Data Institute</i> (LAWDI) from May 31st to June 2nd, 2012 in New York City. Applications are due 17 February 2012.&nbsp;</span><br /><br /><span style="font-size: x-small;">LAWDI, funded by the <a class="external-link" href="http://www.neh.gov/odh/">Office of Digital Humanities of the National Endowment for Humanities</a>, will bring together an international faculty of practitioners working in the field of <a class="external-link" href="http://en.wikipedia.org/wiki/Linked_data">Linked Data</a> with twenty attendees who are implementing or planning the creation of digital resources.</span><br /><br /><span style="font-size: x-small;">More information, including a list of faculty, and application instructions are available at the <a class="external-link" href="http://wiki.digitalclassicist.org/Linked_Ancient_World_Data_Institute">LAWDI page on the Digital Classicist wiki</a>.</span></blockquote><div id="content" style="margin-top: 54px;"><div class="RatingViewlet"></div><div id="content-core"><div class="plain" id="parent-fieldname-text"></div></div></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/4279886966230114659/comments/default"
@@ -33,13 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
-   <georss:featurename>Institute for the Study of the Ancient World, 15 E 84th St, New York, NY 10028, USA</georss:featurename>
-   <georss:point>40.7799072 -73.9603815</georss:point>
-   <georss:box>40.7678837 -73.9801225 40.791930699999995 -73.9406405</georss:box>
 </entry>

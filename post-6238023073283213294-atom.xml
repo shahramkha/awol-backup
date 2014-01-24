@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Open Access Journal:  Bulletin of the Society for East Asian Archaeology (BSEAA)</title>
-   <content type="html">&lt;a href="http://www.seaa-web.org/bul-edit.htm"&gt;Bulletin of the Society for East Asian Archaeology (BSEAA)&lt;/a&gt;&lt;br /&gt;online version:ISSN 1864-6018&lt;br /&gt;print version: ISSN 1864-6026&lt;br /&gt;&lt;span style="font-size:85%;"&gt;&lt;blockquote&gt;The  'Bulletin of the Society for East Asian Archaeology (BSEAA)' (&lt;i&gt;ISSN 1864-6018, print version: ISSN  1864-6026&lt;/i&gt;) was initiated in March 2007. It provides a means of publishing smaller manuscripts  such as field reports, project outlines, conference reports and papers, book reviews, museum  roundups etc., as well as essays on issues in East Asian archaeology. The contributions appear  online at varying intervals over the year. BSEAA is an open access publication, with the exception  of a 3-months preview period for SEAA members and author.&lt;/blockquote&gt;&lt;/span&gt;&lt;a href="http://www.seaa-web.org/bul-cont2007.htm"&gt;BSEAA 1 (2007)&lt;/a&gt; and &lt;a href="http://www.seaa-web.org/bul-cont2008.htm"&gt;BSEAA 2 (2008)&lt;/a&gt; are online at the moment.</content>
+   <content type="html"><![CDATA[<a href="http://www.seaa-web.org/bul-edit.htm">Bulletin of the Society for East Asian Archaeology (BSEAA)</a><br />online version:ISSN 1864-6018<br />print version: ISSN 1864-6026<br /><span style="font-size:85%;"><blockquote>The  'Bulletin of the Society for East Asian Archaeology (BSEAA)' (<i>ISSN 1864-6018, print version: ISSN  1864-6026</i>) was initiated in March 2007. It provides a means of publishing smaller manuscripts  such as field reports, project outlines, conference reports and papers, book reviews, museum  roundups etc., as well as essays on issues in East Asian archaeology. The contributions appear  online at varying intervals over the year. BSEAA is an open access publication, with the exception  of a 3-months preview period for SEAA members and author.</blockquote></span><a href="http://www.seaa-web.org/bul-cont2007.htm">BSEAA 1 (2007)</a> and <a href="http://www.seaa-web.org/bul-cont2008.htm">BSEAA 2 (2008)</a> are online at the moment.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6238023073283213294/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

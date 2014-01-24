@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">numishare</title>
-   <content type="html">&lt;a href="http://numishare.blogspot.com/"&gt;Numishare&lt;/a&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;span style="font-size: x-small;"&gt;Numishare is an open source project hosted by &lt;a href="http://code.google.com/p/numishare/"&gt;Google Code&lt;/a&gt; for the creation, management, and dissemination of numismatic data online.&amp;nbsp; Numishare is an evolution of the &lt;a href="http://coins.lib.virginia.edu/"&gt;University of Virginia Art Museum Numismatic Collection&lt;/a&gt; website.&amp;nbsp; The open source software was first adopted by the &lt;a href="http://www.kittredgecollection.org/"&gt;Kittredge Numismatic Foundation&lt;/a&gt;,   which contributed financially to its development, and is now  maintained  by the American Numismatic Society.&amp;nbsp; The topics discussed  will cover  the general Numishare distribution, the American Numismatic  Society's  adaptation of the software, and other issues concerning the  sharing of  numismatic data.&lt;/span&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[<a href="http://numishare.blogspot.com/">Numishare</a><br /><blockquote><span style="font-size: x-small;">Numishare is an open source project hosted by <a href="http://code.google.com/p/numishare/">Google Code</a> for the creation, management, and dissemination of numismatic data online.&nbsp; Numishare is an evolution of the <a href="http://coins.lib.virginia.edu/">University of Virginia Art Museum Numismatic Collection</a> website.&nbsp; The open source software was first adopted by the <a href="http://www.kittredgecollection.org/">Kittredge Numismatic Foundation</a>,   which contributed financially to its development, and is now  maintained  by the American Numismatic Society.&nbsp; The topics discussed  will cover  the general Numishare distribution, the American Numismatic  Society's  adaptation of the software, and other issues concerning the  sharing of  numismatic data.</span></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/8592733574439273025/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">New OI publication online</title>
-   <content type="html">I have updated AWOL - &lt;a href="http://ancientworldbloggers.blogspot.com/2008/04/awol-ancient-world-online-2.html"&gt;The Ancient World Online - 2: The Oriental Institute Electronic Publications Initiative&lt;/a&gt;, with the addition of&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;OIMP 29. &lt;a href="http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp29.html"&gt;The Life of Meresamun: A Temple Singer in Ancient Egypt.&lt;/a&gt; Edited by Emily Teeter and Janet H. Johnson, 2009&lt;/li&gt;&lt;/ul&gt;</content>
+   <content type="html"><![CDATA[I have updated AWOL - <a href="http://ancientworldbloggers.blogspot.com/2008/04/awol-ancient-world-online-2.html">The Ancient World Online - 2: The Oriental Institute Electronic Publications Initiative</a>, with the addition of<br /><ul><br /><li>OIMP 29. <a href="http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp29.html">The Life of Meresamun: A Temple Singer in Ancient Egypt.</a> Edited by Emily Teeter and Janet H. Johnson, 2009</li></ul>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/4162228852120246858/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

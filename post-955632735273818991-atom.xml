@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Newly online at Achemenet</title>
-   <content type="html">Published online today at &lt;a href="http://www.achemenet.com/"&gt;Achemenet&lt;/a&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;span style="font-size:85%;"&gt;Retrouvez toute l’actualité du site Achemenet à l’adresse suivante :&lt;br /&gt;&lt;br /&gt;&lt;/span&gt; &lt;span style="color: rgb(0, 0, 255);font-size:85%;" &gt;&lt;u&gt;&lt;a href="http://www.achemenet.com/bookmark.do?link=news-nov09" target="_blank"&gt;http://www.achemenet.com/bookmark.do?link=news-nov09&lt;/a&gt;&lt;br /&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style="font-size:85%;"&gt;&lt;br /&gt;&lt;b&gt;Sous presse&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;Koray Konuk, "&lt;a href="http://www.achemenet.com/document/KONUK_Ekklesiastikon_at_Iasos.pdf"&gt;The Payment of the ekklesiastikon at Iasos in the Light of New Evidence&lt;/a&gt;"&lt;/span&gt;  &lt;span style="color: rgb(0, 0, 255);font-size:85%;" &gt;&lt;u&gt;&lt;br /&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style="font-size:85%;"&gt;&lt;br /&gt;Koray Konuk, "&lt;a href="http://www.achemenet.com/document/KONUK_Asia_Minor.pdf"&gt;Asia Minor to the Ionian Revolt&lt;/a&gt;"&lt;/span&gt;&lt;/blockquote&gt;&lt;span style="color: rgb(0, 0, 255);"&gt;&lt;u&gt;&lt;a href="http://www.achemenet.com/document/KONUK_Asia_Minor.pdf" target="_blank"&gt;&lt;br /&gt;&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;</content>
+   <content type="html"><![CDATA[Published online today at <a href="http://www.achemenet.com/">Achemenet</a><br /><blockquote><span style="font-size:85%;">Retrouvez toute l’actualité du site Achemenet à l’adresse suivante :<br /><br /></span> <span style="color: rgb(0, 0, 255);font-size:85%;" ><u><a href="http://www.achemenet.com/bookmark.do?link=news-nov09" target="_blank">http://www.achemenet.com/bookmark.do?link=news-nov09</a><br /></u></span><span style="font-size:85%;"><br /><b>Sous presse<br /><br /></b>Koray Konuk, "<a href="http://www.achemenet.com/document/KONUK_Ekklesiastikon_at_Iasos.pdf">The Payment of the ekklesiastikon at Iasos in the Light of New Evidence</a>"</span>  <span style="color: rgb(0, 0, 255);font-size:85%;" ><u><br /></u></span><span style="font-size:85%;"><br />Koray Konuk, "<a href="http://www.achemenet.com/document/KONUK_Asia_Minor.pdf">Asia Minor to the Ionian Revolt</a>"</span></blockquote><span style="color: rgb(0, 0, 255);"><u><a href="http://www.achemenet.com/document/KONUK_Asia_Minor.pdf" target="_blank"><br /></a></u></span>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/955632735273818991/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

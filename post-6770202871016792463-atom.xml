@@ -12,7 +12,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Achaemenids"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliographies"/>
    <title type="text">Bulletin d'histoire achéménide Online</title>
-   <content type="html">Briant, Pierre &lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://www.achemenet.com/pdf/bhachI/bhach1.pdf"&gt;Bulletin d'histoire achéménide I&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://www.achemenet.com/document/Briant_BhachII.pdf"&gt;Bulletin d'histoire achéménide II&lt;/a&gt; (1997-2000)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[Briant, Pierre <br /><blockquote class="tr_bq"><ul><li><span style="font-size: x-small;"><a href="http://www.achemenet.com/pdf/bhachI/bhach1.pdf">Bulletin d'histoire achéménide I</a></span></li><li><span style="font-size: x-small;"><a href="http://www.achemenet.com/document/Briant_BhachII.pdf">Bulletin d'histoire achéménide II</a> (1997-2000)</span></li></ul></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6770202871016792463/comments/default"
@@ -35,10 +35,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

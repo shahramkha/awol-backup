@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Open Access Book Series: Cotsen Digital Archaeology</title>
-   <content type="html">&lt;a href="http://escholarship.org/uc/search?entity=cioa_cda"&gt;Cotsen Digital Archaeology series&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;div class="intro"&gt;&lt;span style="font-size: x-small;"&gt;There&amp;nbsp;are&amp;nbsp;2&amp;nbsp;publications in this collection, published  between 1999 and 2011.&lt;/span&gt; &lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;Kansa, Eric C.; Kansa, Sarah Whitcher; Watrall, Ethan: &lt;a href="http://escholarship.org/uc/item/1r6137tb"&gt;Archaeology 2.0: New Approaches to Communication and Collaboration&lt;/a&gt;, 2011&lt;br /&gt;&lt;b&gt;Abstract:&lt;/b&gt; How is the Web transforming the professional practice of archaeology?  And as archaeologists accustomed to dealing with “deep time,” how can we  best understand the possibilities and limitations of the Web in meeting  the specialized...&lt;/span&gt; &lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span style="font-size: x-small;"&gt;Wendrich, Willeke: &lt;a href="http://escholarship.org/uc/item/6n42w0rg"&gt;The World According to Basketry&lt;/a&gt;, 1999&lt;br /&gt;&lt;b&gt;Abstract:&lt;/b&gt; This book was originally published in 1999 by the Leiden University,  Center of&amp;nbsp;Non-Western Studies. This is an unabridged re-publication of  the 1999 edition,&amp;nbsp;and the one-hour movie that is an integral part of the  book. You... &lt;/span&gt;&lt;/span&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[<a href="http://escholarship.org/uc/search?entity=cioa_cda">Cotsen Digital Archaeology series</a><br /><blockquote class="tr_bq"><div class="intro"><span style="font-size: x-small;">There&nbsp;are&nbsp;2&nbsp;publications in this collection, published  between 1999 and 2011.</span> </div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Kansa, Eric C.; Kansa, Sarah Whitcher; Watrall, Ethan: <a href="http://escholarship.org/uc/item/1r6137tb">Archaeology 2.0: New Approaches to Communication and Collaboration</a>, 2011<br /><b>Abstract:</b> How is the Web transforming the professional practice of archaeology?  And as archaeologists accustomed to dealing with “deep time,” how can we  best understand the possibilities and limitations of the Web in meeting  the specialized...</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span style="font-size: x-small;">Wendrich, Willeke: <a href="http://escholarship.org/uc/item/6n42w0rg">The World According to Basketry</a>, 1999<br /><b>Abstract:</b> This book was originally published in 1999 by the Leiden University,  Center of&nbsp;Non-Western Studies. This is an unabridged re-publication of  the 1999 edition,&nbsp;and the one-hour movie that is an integral part of the  book. You... </span></span></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3599524801723515230/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

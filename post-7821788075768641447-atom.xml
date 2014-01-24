@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Academic Social Network:  Academia.edu</title>
-   <content type="html">Go to &lt;a href="http://www.academia.edu/"&gt;academia.edu&lt;/a&gt; and build (or update) your profile.  Encourage your students, colleagues and teachers to do so as well.  Those of you whose institutions have an inadequate repostitory (or lack one altogether) can deposit your scholarly writing as a part of their profile on &lt;a href="http://www.academia.edu/"&gt;academia.edu&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Once you have a profile, find me at &lt;a href="http://nyu.academia.edu/CharlesJones"&gt;one&lt;/a&gt; or &lt;a href="http://chicago.academia.edu/CharlesJones"&gt;another&lt;/a&gt; of my manifestations there (merging of profiles for those with appopintments a more than one institution or department is an issue they are working on solving), and add me as a contact.</content>
+   <content type="html"><![CDATA[Go to <a href="http://www.academia.edu/">academia.edu</a> and build (or update) your profile.  Encourage your students, colleagues and teachers to do so as well.  Those of you whose institutions have an inadequate repostitory (or lack one altogether) can deposit your scholarly writing as a part of their profile on <a href="http://www.academia.edu/">academia.edu</a>.<br /><br />Once you have a profile, find me at <a href="http://nyu.academia.edu/CharlesJones">one</a> or <a href="http://chicago.academia.edu/CharlesJones">another</a> of my manifestations there (merging of profiles for those with appopintments a more than one institution or department is an issue they are working on solving), and add me as a contact.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/7821788075768641447/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

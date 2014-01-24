@@ -11,7 +11,7 @@
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Portugese"/>
    <title type="text">New Open Access Journal: Portugal Romano</title>
-   <content type="html">&lt;a href="http://www.portugalromano.com/revista/" target="_blank"&gt;Portugal Romano: Arqueologia Romana em Portugal&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;span style="font-size: small;"&gt;See the full &lt;a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"&gt;List of Open Access Journals in Ancient Studies&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.portugalromano.com/revista/" target="_blank">Portugal Romano: Arqueologia Romana em Portugal</a><br /><br /><br /><div style="text-align: center;"><span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/1553571120802260442/comments/default"
@@ -34,10 +34,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

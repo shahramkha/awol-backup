@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">LOOT  BUSTERS</title>
-   <content type="html">&lt;a href="http://www.lootbusters.com/"&gt;LOOT &amp;nbsp;BUSTERS&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;ITEMS LOOTED FROM ARCHAEOLOGICAL SITES AND EGYPTIAN, GREEK &amp;amp; ROMAN&lt;span style="font-family: Times New Roman;"&gt; &lt;/span&gt;ANTIQUITIES SUSPECTED TO BE LOOTED&lt;/span&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.lootbusters.com/">LOOT &nbsp;BUSTERS</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">ITEMS LOOTED FROM ARCHAEOLOGICAL SITES AND EGYPTIAN, GREEK &amp; ROMAN<span style="font-family: Times New Roman;"> </span>ANTIQUITIES SUSPECTED TO BE LOOTED</span></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3364042573166289215/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

@@ -7,13 +7,10 @@
    <id>tag:blogger.com,1999:blog-116259103207720939.post-3060668470862593485</id>
    <published>2012-04-21T08:24:00.000-04:00</published>
    <updated>2012-04-21T08:24:48.945-04:00</updated>
-   <app:control xmlns:app="http://purl.org/atom/app#">
-      <app:draft>yes</app:draft>
-   </app:control>
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text"/>
-   <content type="html">&lt;br /&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://www.apgrd.ox.ac.uk/news.htm"&gt;Archive of Performances of  Greek and Roman Drama (APGRD) Newsletter&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://www.didaskalia.net/"&gt;Didaskalia: Ancient Theatre Today&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;a href="http://www.logeion.upatras.gr/"&gt;Λογεῖον: περιοδικό για το αρχαίο θέατρο - Logeion: A Journal of Ancient Theatre&lt;/a&gt;&lt;br /&gt;&lt;a href="http://ancientworldonline.blogspot.com/2010/05/ancient-music.html"&gt;NEAR AND MIDDLE EASTERN  ARCHAEOMUSICOLOGY&amp;nbsp;&lt;/a&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;br /&gt;&lt;a href="http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/"&gt;New Voices In Classical Reception Studies&lt;/a&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://www2.open.ac.uk/ClassicalStudies/GreekPlays/Practitioners/index.htm"&gt;Practitioners' Voices in Classical Reception Studies&lt;/a&gt; &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://www.indafondazione.org/category/prometeus-rivista-online/"&gt;Prometeo&lt;/a&gt;&lt;/span&gt;&lt;span style="font-size: xx-small;"&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;/span&gt;</content>
+   <content type="html"><![CDATA[<br /><span style="font-size: small;"><a href="http://www.apgrd.ox.ac.uk/news.htm">Archive of Performances of  Greek and Roman Drama (APGRD) Newsletter</a></span><br /><span style="font-size: small;"><a href="http://www.didaskalia.net/">Didaskalia: Ancient Theatre Today</a></span><br /><a href="http://www.logeion.upatras.gr/">Λογεῖον: περιοδικό για το αρχαίο θέατρο - Logeion: A Journal of Ancient Theatre</a><br /><a href="http://ancientworldonline.blogspot.com/2010/05/ancient-music.html">NEAR AND MIDDLE EASTERN  ARCHAEOMUSICOLOGY&nbsp;</a><span style="font-size: small;"> </span><br /><a href="http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/">New Voices In Classical Reception Studies</a><span style="font-size: small;"> </span><br /><span style="font-size: small;"><a href="http://www2.open.ac.uk/ClassicalStudies/GreekPlays/Practitioners/index.htm">Practitioners' Voices in Classical Reception Studies</a> </span><br /><span style="font-size: small;"><a href="http://www.indafondazione.org/category/prometeus-rivista-online/">Prometeo</a></span><span style="font-size: xx-small;"><span style="font-size: small;"> </span></span>]]></content>
    <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3060668470862593485"/>
@@ -24,10 +21,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

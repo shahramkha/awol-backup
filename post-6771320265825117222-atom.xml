@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">The Insula of the Menander at Pompeii Volume III: The Finds in Context: An On-Line Companion</title>
-   <content type="html">&lt;a href="http://www.le.ac.uk/ar/menander/index.html"&gt;The Insula of the Menander at Pompeii Volume III: The Finds in Context: An On-Line Companion&lt;/a&gt;&lt;br /&gt;By Penelope M. Allison&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;img alt="http://www.le.ac.uk/ar/menander/images/sitemap.gif" src="http://www.le.ac.uk/ar/menander/images/sitemap.gif" /&gt; &lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;This site hosts a database of finds to accompany Penelope  M. Allison, &lt;em&gt;The Insula of the Menander in Pompeii vol iii: The Finds, a Contextual Study &lt;/em&gt;(Oxford University Press 2006).&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;The database contains some   2000 artefacts found in this insula,  including over 1000 photographs and 583   drawings. An introduction and  an explanation of database fields assist the reader in using this  database, which is   searchable on a number of locational, typological,  functional and other   descriptive fields&lt;/span&gt;. &lt;/blockquote&gt;&lt;div id="navigation"&gt;   &lt;div align="center"&gt;   &lt;span style="font-size: xx-small;"&gt;&lt;a href="http://www.le.ac.uk/ar/menander/index.html"&gt;home page&lt;/a&gt; |    &lt;a href="http://www.le.ac.uk/ar/menander/introduction.html"&gt;introduction&lt;/a&gt; |    &lt;a href="http://www.le.ac.uk/ar/menander/insulaplan.html"&gt;insula plan&lt;/a&gt; |    &lt;a href="http://www.le.ac.uk/ar/menander/houselist.html"&gt;list of houses and units&lt;/a&gt; |   &lt;a href="http://www.le.ac.uk/ar/menander/search.html"&gt;search database&lt;/a&gt; |    &lt;a href="http://www.le.ac.uk/ar/menander/databasefields.html"&gt;explanation of database fields&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.le.ac.uk/ar/menander/index.html">The Insula of the Menander at Pompeii Volume III: The Finds in Context: An On-Line Companion</a><br />By Penelope M. Allison<br /><blockquote class="tr_bq"><img alt="http://www.le.ac.uk/ar/menander/images/sitemap.gif" src="http://www.le.ac.uk/ar/menander/images/sitemap.gif" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This site hosts a database of finds to accompany Penelope  M. Allison, <em>The Insula of the Menander in Pompeii vol iii: The Finds, a Contextual Study </em>(Oxford University Press 2006).</span><br /><span style="font-size: x-small;">The database contains some   2000 artefacts found in this insula,  including over 1000 photographs and 583   drawings. An introduction and  an explanation of database fields assist the reader in using this  database, which is   searchable on a number of locational, typological,  functional and other   descriptive fields</span>. </blockquote><div id="navigation">   <div align="center">   <span style="font-size: xx-small;"><a href="http://www.le.ac.uk/ar/menander/index.html">home page</a> |    <a href="http://www.le.ac.uk/ar/menander/introduction.html">introduction</a> |    <a href="http://www.le.ac.uk/ar/menander/insulaplan.html">insula plan</a> |    <a href="http://www.le.ac.uk/ar/menander/houselist.html">list of houses and units</a> |   <a href="http://www.le.ac.uk/ar/menander/search.html">search database</a> |    <a href="http://www.le.ac.uk/ar/menander/databasefields.html">explanation of database fields</a></span></div></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6771320265825117222/comments/default"
@@ -33,13 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
-   <georss:featurename>80045 Pompei Naples, Italy</georss:featurename>
-   <georss:point>40.7491819 14.5007385</georss:point>
-   <georss:box>40.7251234 14.461256500000001 40.773240400000006 14.5402205</georss:box>
 </entry>

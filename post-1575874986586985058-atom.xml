@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Hethitologie Portal Mainz Updated</title>
-   <content type="html">The &lt;a href="http://ancientworldonline.blogspot.com/2011/07/hittite-online.html"&gt;Hethitologie Portal Mainz&lt;/a&gt; is reporting updates to the &lt;a href="http://www.hethport.uni-wuerzburg.de/CTH/"&gt;Catalog der Texte der Hethiter (CTH)&lt;/a&gt;, the Hethitische Textskizzen, and the &lt;a href="http://www.hethport.uni-wuerzburg.de/hetkonk/"&gt; Konkordanz&lt;/a&gt;.</content>
+   <content type="html"><![CDATA[The <a href="http://ancientworldonline.blogspot.com/2011/07/hittite-online.html">Hethitologie Portal Mainz</a> is reporting updates to the <a href="http://www.hethport.uni-wuerzburg.de/CTH/">Catalog der Texte der Hethiter (CTH)</a>, the Hethitische Textskizzen, and the <a href="http://www.hethport.uni-wuerzburg.de/hetkonk/"> Konkordanz</a>.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/1575874986586985058/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

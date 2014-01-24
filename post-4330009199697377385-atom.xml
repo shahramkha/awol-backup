@@ -7,13 +7,10 @@
    <id>tag:blogger.com,1999:blog-116259103207720939.post-4330009199697377385</id>
    <published>2013-09-22T08:33:00.001-04:00</published>
    <updated>2013-09-22T08:33:32.120-04:00</updated>
-   <app:control xmlns:app="http://purl.org/atom/app#">
-      <app:draft>yes</app:draft>
-   </app:control>
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text"/>
-   <content type="html">&lt;a href="http://www.ancient-hebrew.org/emagazine/index.html"&gt;Biblical Hebrew E-Magazine&lt;/a&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.ancient-hebrew.org/emagazine/index.html">Biblical Hebrew E-Magazine</a>]]></content>
    <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/09/blog-post.html#comment-form"
@@ -28,10 +25,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

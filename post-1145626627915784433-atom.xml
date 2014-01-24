@@ -11,7 +11,7 @@
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="CDLI"/>
    <title type="text">Cuneiform Digital Library Initiative (CDLI) web site survey</title>
-   <content type="html">Dear CDLI Contributors and Users:&lt;br /&gt;&lt;br /&gt;The Cuneiform Digital Library Initiative (CDLI) began working with the UCLA Library in 2007 to ensure long-term digital storage and preservation of and enhanced access to digital content offered through the CDLI Web site (&lt;a href="http://cdli.ucla.edu/%29." target="l"&gt;http://cdli.ucla.edu/).&lt;/a&gt;  This collaboration has been supported in part by the Institute of Museum and Library Services (IMLS).&lt;br /&gt;&lt;br /&gt;As part of the effort to enhance access to this digital collection, the UCLA Library would like to better understand the current strengths and weaknesses of the CDLI Web site, as well as learn more about the audience of the CDLI content. Please assist us by completing a short survey available at &lt;a href="http://tinyurl.com/bzfhjc." target="l"&gt;http://tinyurl.com/bzfhjc.&lt;/a&gt;  The survey is 10 short questions and takes approximately 10-15 minutes.&lt;br /&gt;&lt;br /&gt;We appreciate your help as we work to improve the CDLI Web site. If you have any comments, questions or concerns, please contact UCLA Librarian Sharon Shafer at sshafer [at] library.ucla.edu.&lt;br /&gt;&lt;br /&gt;Best regards,&lt;br /&gt;&lt;br /&gt;Elizabeth McAulay and Sharon Shafer&lt;br /&gt;UCLA Library</content>
+   <content type="html"><![CDATA[Dear CDLI Contributors and Users:<br /><br />The Cuneiform Digital Library Initiative (CDLI) began working with the UCLA Library in 2007 to ensure long-term digital storage and preservation of and enhanced access to digital content offered through the CDLI Web site (<a href="http://cdli.ucla.edu/%29." target="l">http://cdli.ucla.edu/).</a>  This collaboration has been supported in part by the Institute of Museum and Library Services (IMLS).<br /><br />As part of the effort to enhance access to this digital collection, the UCLA Library would like to better understand the current strengths and weaknesses of the CDLI Web site, as well as learn more about the audience of the CDLI content. Please assist us by completing a short survey available at <a href="http://tinyurl.com/bzfhjc." target="l">http://tinyurl.com/bzfhjc.</a>  The survey is 10 short questions and takes approximately 10-15 minutes.<br /><br />We appreciate your help as we work to improve the CDLI Web site. If you have any comments, questions or concerns, please contact UCLA Librarian Sharon Shafer at sshafer [at] library.ucla.edu.<br /><br />Best regards,<br /><br />Elizabeth McAulay and Sharon Shafer<br />UCLA Library]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/1145626627915784433/comments/default"
@@ -34,10 +34,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

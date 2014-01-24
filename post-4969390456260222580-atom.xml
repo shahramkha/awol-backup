@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Tracings made in various Theban tombs by Norman and Nina de Garis Davies</title>
-   <content type="html">&lt;a href="http://www.griffith.ox.ac.uk/gri/4TT23.html"&gt;Tracings made in various Theban tombs by Norman and Nina de Garis Davies, &lt;/a&gt;&lt;span class="Apple-style-span" style="font-family: Times; "&gt;and &lt;a href="http://www.griffith.ox.ac.uk/gri/4daviest.html"&gt;others&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class="Apple-style-span"  style="font-size:x-small;"&gt;Some 1,000 sheets of tracings made in various Theban tombs by&lt;br /&gt;Norman and Nina de Garis Davies sometime between 1920 and&lt;br /&gt;1940, now in the Archive of the Griffith Institute, will be made&lt;br /&gt;available on the Institute's website.&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(85, 26, 139); text-decoration: underline;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.griffith.ox.ac.uk/gri/4TT23.html">Tracings made in various Theban tombs by Norman and Nina de Garis Davies, </a><span class="Apple-style-span" style="font-family: Times; ">and <a href="http://www.griffith.ox.ac.uk/gri/4daviest.html">others</a></span><br /><br /><span class="Apple-style-span"  style="font-size:x-small;">Some 1,000 sheets of tracings made in various Theban tombs by<br />Norman and Nina de Garis Davies sometime between 1920 and<br />1940, now in the Archive of the Griffith Institute, will be made<br />available on the Institute's website.</span><span class="Apple-style-span" style="color: rgb(85, 26, 139); text-decoration: underline;"><br /></span><div><br /></div><div><br /></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/4969390456260222580/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

@@ -12,7 +12,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
    <title type="text">IMPACT Radiological Mummy Database</title>
-   <content type="html">&lt;a href="http://impactdb.uwo.ca/IMPACTdb/Index.html"&gt;IMPACT Radiological Mummy Database&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;div class="paragraph_style_2"&gt;&lt;span style="font-size: x-small;"&gt;The IMPACT Radiological  Mummy Database is a large-scale, multi-institutional collaborative  research project devoted to the scientific study of mummified remains,  and the mummification traditions that produced them, through  non-destructive medical imaging technologies. &lt;/span&gt;&lt;/div&gt;&lt;div class="paragraph_style_2"&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style="font-size: x-small;"&gt;IMPACT  focuses on the body,&amp;nbsp; made artifact through cultural or natural  intervention, in bioarchaeology, epidemiology, and social archaeology  studies of&amp;nbsp; past human societies and their genetic and cultural decendants.&lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;</content>
+   <content type="html"><![CDATA[<a href="http://impactdb.uwo.ca/IMPACTdb/Index.html">IMPACT Radiological Mummy Database</a><br /><blockquote class="tr_bq"><div class="paragraph_style_2"><span style="font-size: x-small;">The IMPACT Radiological  Mummy Database is a large-scale, multi-institutional collaborative  research project devoted to the scientific study of mummified remains,  and the mummification traditions that produced them, through  non-destructive medical imaging technologies. </span></div><div class="paragraph_style_2"><span style="font-size: x-small;"><br /></span></div><span style="font-size: x-small;">IMPACT  focuses on the body,&nbsp; made artifact through cultural or natural  intervention, in bioarchaeology, epidemiology, and social archaeology  studies of&nbsp; past human societies and their genetic and cultural decendants.</span></blockquote><br />]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/5711895868825028091/comments/default"
@@ -35,10 +35,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

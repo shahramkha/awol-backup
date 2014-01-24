@@ -7,9 +7,6 @@
    <id>tag:blogger.com,1999:blog-116259103207720939.post-5828404411754948908</id>
    <published>2013-06-23T10:44:00.001-04:00</published>
    <updated>2013-06-23T10:44:08.217-04:00</updated>
-   <app:control xmlns:app="http://purl.org/atom/app#">
-      <app:draft>yes</app:draft>
-   </app:control>
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Coptic Roundup</title>
@@ -24,10 +21,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

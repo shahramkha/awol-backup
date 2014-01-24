@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Open Access Journal: Bulletin of the Museum of Fine Arts, Boston</title>
-   <content type="html">&lt;a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfaall"&gt;Bulletin of the Museum of Fine Arts, Boston&lt;/a&gt; [Egypt and Nubia articles only]&lt;br /&gt;The Giza Archive Project has made all articles relating to Egypt and Nubia accessible.&lt;br /&gt;&lt;span style="font-size:85%;"&gt;&lt;a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfaall"&gt;&lt;/a&gt;&lt;/span&gt;&lt;blockquote&gt;&lt;span style="font-size:85%;"&gt;&lt;a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfaall"&gt;All Egyptian and Nubian Articles&lt;/a&gt;&lt;br /&gt;&lt;a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfagiza"&gt;Giza Articles&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;See the full &lt;a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"&gt;List of Open Access Journals in Ancient Studies&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a title="data:post.title" url="data:post.url" class="addthis_button"&gt;&lt;img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" alt="Bookmark and Share" style="border: 0pt none ;" height="16" width="125" /&gt;&lt;/a&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfaall">Bulletin of the Museum of Fine Arts, Boston</a> [Egypt and Nubia articles only]<br />The Giza Archive Project has made all articles relating to Egypt and Nubia accessible.<br /><span style="font-size:85%;"><a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfaall"></a></span><blockquote><span style="font-size:85%;"><a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfaall">All Egyptian and Nubian Articles</a><br /><a href="http://www.gizapyramids.org/code/emuseum.asp?newpage=bmfagiza">Giza Articles</a></span></blockquote><br />See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a>.<br /><br /><a title="data:post.title" url="data:post.url" class="addthis_button"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" alt="Bookmark and Share" style="border: 0pt none ;" height="16" width="125" /></a>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/8921081047973544594/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

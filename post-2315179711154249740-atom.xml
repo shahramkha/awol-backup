@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Catalogue of Russian Dissertations</title>
-   <content type="html">A large &lt;a href="http://disseng.com/"&gt;catalogue of Russian dissertations&lt;/a&gt; is now available online.  There is a substantial selection of &lt;a href="http://disseng.com/page/cat/pko/281/s/2/st/0.html"&gt;archaeology titles&lt;/a&gt;, many, perhaps most of them otherwise unavailable.  The titles listed appear to be machine translated into English. Twenty-five page samples of each title are offered, but were not available for any that I tried.&lt;br /&gt;&lt;br /&gt;The service promises, for a reasonable fee, to be able to supply a pdf of the each dissertation in one day, or for slightly more a pdf + machine translation in two days.  Prices for pdf + professional translation depend on the size of the work and requires 5-10 days.&lt;br /&gt;&lt;br /&gt;I have not yet tried to order a copy.  If anyone has, I would appreciate comment below.</content>
+   <content type="html"><![CDATA[A large <a href="http://disseng.com/">catalogue of Russian dissertations</a> is now available online.  There is a substantial selection of <a href="http://disseng.com/page/cat/pko/281/s/2/st/0.html">archaeology titles</a>, many, perhaps most of them otherwise unavailable.  The titles listed appear to be machine translated into English. Twenty-five page samples of each title are offered, but were not available for any that I tried.<br /><br />The service promises, for a reasonable fee, to be able to supply a pdf of the each dissertation in one day, or for slightly more a pdf + machine translation in two days.  Prices for pdf + professional translation depend on the size of the work and requires 5-10 days.<br /><br />I have not yet tried to order a copy.  If anyone has, I would appreciate comment below.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/2315179711154249740/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>1</thr:total>
 </entry>

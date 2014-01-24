@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Newly Online at IFAO</title>
-   <content type="html">&lt;a href="http://www.ifao.egnet.net/uploads/publications/enligne/Abreviations.pdf"&gt;Abréviations des périodiques et collections en usage à l’Institut français d’archéologie orientale le caire&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Mathieu, Bernard.&lt;/b&gt;&lt;br /&gt;&lt;hr /&gt;&lt;table border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="label"&gt;&lt;nobr&gt;Publication Year:&lt;/nobr&gt;&lt;/td&gt;&lt;td&gt;2010&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="label"&gt;&lt;nobr&gt;Type of Material&lt;/nobr&gt;:&lt;/td&gt;&lt;td&gt;Book&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="label"&gt;&lt;nobr&gt;Publisher:&lt;/nobr&gt;&lt;/td&gt;&lt;td&gt;Institut français d’archéologie orientale&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="label"&gt;&lt;nobr&gt;Place of Publication:&lt;/nobr&gt;&lt;/td&gt;&lt;td&gt;Cairo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="label"&gt;&lt;nobr&gt;Notes:&lt;/nobr&gt;&lt;/td&gt;&lt;td&gt;Cinquième édition, revue et augmentée&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="label"&gt;ISBN:&lt;/td&gt;&lt;td&gt;978-2-7247-0511-9 &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.ifao.egnet.net/uploads/publications/enligne/Abreviations.pdf">Abréviations des périodiques et collections en usage à l’Institut français d’archéologie orientale le caire<b>&nbsp;</b></a><br /><b>Mathieu, Bernard.</b><br /><hr /><table border="0"><tbody><tr><td class="label"><nobr>Publication Year:</nobr></td><td>2010</td></tr><tr><td class="label"><nobr>Type of Material</nobr>:</td><td>Book</td></tr><tr><td class="label"><nobr>Publisher:</nobr></td><td>Institut français d’archéologie orientale</td></tr><tr><td class="label"><nobr>Place of Publication:</nobr></td><td>Cairo</td></tr><tr><td class="label"><nobr>Notes:</nobr></td><td>Cinquième édition, revue et augmentée</td></tr><tr><td class="label">ISBN:</td><td>978-2-7247-0511-9 </td></tr></tbody></table><div style="text-align: center;"><br /></div><div style="text-align: center;"><br /></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3236776218450854074/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Open Access Hittite Text Corpus</title>
-   <content type="html">&lt;a href="http://www.hethport.uni-wuerzburg.de/CTH/"&gt;Catalog der Texte der Hethiter (CTH)&lt;/a&gt;&lt;br /&gt;&lt;a href="http://www.hethport.uni-wuerzburg.de/CTH/"&gt;Catalogue des textes hittites - Catalogue of Hittite Texts&lt;/a&gt;&lt;br /&gt;in Fortführung der Arbeit von E. Laroche bearbeitet von S. Košak und G.G.W. Müller &lt;br /&gt;&lt;br /&gt;Published online as a part of the &lt;a href="http://www.hethport.uni-wuerzburg.de/HPM/hethportlinks.html"&gt;Hethitologie Portal Mainz&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &amp;quot;&amp;quot;, this.id, this.name);"&gt;&lt;img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /&gt;&lt;/a&gt; &lt;script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"&gt;&lt;/script&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.hethport.uni-wuerzburg.de/CTH/">Catalog der Texte der Hethiter (CTH)</a><br /><a href="http://www.hethport.uni-wuerzburg.de/CTH/">Catalogue des textes hittites - Catalogue of Hittite Texts</a><br />in Fortführung der Arbeit von E. Laroche bearbeitet von S. Košak und G.G.W. Müller <br /><br />Published online as a part of the <a href="http://www.hethport.uni-wuerzburg.de/HPM/hethportlinks.html">Hethitologie Portal Mainz</a><br /><br /><div style="text-align: center;"><a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a> <script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/8479169636220564258/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>2</thr:total>
 </entry>

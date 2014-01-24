@@ -12,7 +12,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="papyrology"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
    <title type="text">New in the Tresmegistos series</title>
-   <content type="html">&lt;b&gt;A. Benaissa&lt;/b&gt;     &lt;br /&gt;&lt;a href="http://www.trismegistos.org/dl.php?id=8"&gt;&lt;i&gt;Rural Settlements of the Oxyrynchite Nome. A Papyrological Survey&lt;/i&gt;&lt;/a&gt;     &lt;br /&gt;Version 1.0 (October 2009), Köln / Leuven 2009, 417 pp. (8.3 Mb).     &lt;br /&gt;ISBN: 9789490604042     &lt;br /&gt;&lt;br /&gt;See all the volumes available in open access in &lt;a href="http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html"&gt;Trismegistos&lt;/a&gt;.</content>
+   <content type="html"><![CDATA[<b>A. Benaissa</b>     <br /><a href="http://www.trismegistos.org/dl.php?id=8"><i>Rural Settlements of the Oxyrynchite Nome. A Papyrological Survey</i></a>     <br />Version 1.0 (October 2009), Köln / Leuven 2009, 417 pp. (8.3 Mb).     <br />ISBN: 9789490604042     <br /><br />See all the volumes available in open access in <a href="http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html">Trismegistos</a>.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/2168587004115236500/comments/default"
@@ -35,10 +35,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">The Human Adventure</title>
-   <content type="html">&lt;a href="http://www.youtube.com/watch?v=yysHJk0v5XA"&gt;The Human Adventure&lt;/a&gt;, James Henry Breasted's 1935 film centered around the archaeological projects of the Oriental Institute is now online at &lt;a href="http://www.youtube.com/user/JamesHenryBreasted"&gt;The Oriental Institute's Youtube Channel&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;br /&gt;&lt;iframe class="youtube-player" frameborder="0" height="369" src="http://www.youtube.com/embed/yysHJk0v5XA" title="YouTube video player" type="text/html" width="445"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;For some additional information, &lt;a href="http://oihistory.blogspot.com/2010/10/human-adventure-is-online.html"&gt;go here&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=5130549244386310434" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &amp;quot;&amp;quot;, this.id, this.name);"&gt;&lt;img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"&gt;&lt;/script&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.youtube.com/watch?v=yysHJk0v5XA">The Human Adventure</a>, James Henry Breasted's 1935 film centered around the archaeological projects of the Oriental Institute is now online at <a href="http://www.youtube.com/user/JamesHenryBreasted">The Oriental Institute's Youtube Channel</a>.<br /><br /><div style="text-align: center;"><br /><br /><iframe class="youtube-player" frameborder="0" height="369" src="http://www.youtube.com/embed/yysHJk0v5XA" title="YouTube video player" type="text/html" width="445"></iframe></div><br />For some additional information, <a href="http://oihistory.blogspot.com/2010/10/human-adventure-is-online.html">go here</a>.<br /><br /><br /><div><div style="text-align: center;"><br /></div><div style="text-align: center;"><a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=5130549244386310434" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a></div><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6133139000209667299/comments/default"
@@ -33,14 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/"
-                    url="http://img.youtube.com/vi/yysHJk0v5XA/default.jpg"
-                    height="72"
-                    width="72"/>
-   <thr:total>0</thr:total>
 </entry>

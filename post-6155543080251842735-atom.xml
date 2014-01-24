@@ -14,7 +14,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
    <title type="text">Online Atlas archéologique de la Tunisie</title>
-   <content type="html">&lt;a href="http://arachne.uni-koeln.de/books/Babelon1893Text"&gt;Atlas archéologique de la Tunisie&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;Babelon, Ernest.  Atlas archéologique de  la Tunisie : édition spéciale des cartes topographiques publiées par le  Ministère de la Guerre.  accompagnée d'un texte explicatif rédigé par  Mm. E. Babelon, R. Cagnat, S. Reinach. [Texte] / . Paris  1893. &lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;a href="http://arachne.uni-koeln.de/drupal/"&gt;&lt;img alt="Arachne" src="http://arachne.uni-koeln.de/template/images/logo.gif" /&gt;&lt;/a&gt;</content>
+   <content type="html"><![CDATA[<a href="http://arachne.uni-koeln.de/books/Babelon1893Text">Atlas archéologique de la Tunisie</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Babelon, Ernest.  Atlas archéologique de  la Tunisie : édition spéciale des cartes topographiques publiées par le  Ministère de la Guerre.  accompagnée d'un texte explicatif rédigé par  Mm. E. Babelon, R. Cagnat, S. Reinach. [Texte] / . Paris  1893. </span></blockquote><br /><a href="http://arachne.uni-koeln.de/drupal/"><img alt="Arachne" src="http://arachne.uni-koeln.de/template/images/logo.gif" /></a>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6155543080251842735/comments/default"
@@ -37,10 +37,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">British Internets to be archived</title>
-   <content type="html">Good news &lt;a href="http://www.guardian.co.uk/books/2009/dec/27/libraries-internet"&gt;reported in The Guardian&lt;/a&gt;:&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;span style="font-size:85%;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;span style="font-size:85%;"&gt;New legal powers to allow the &lt;a href="http://www.guardian.co.uk/books/british-library" title="More from guardian.co.uk on British Library"&gt;British Library&lt;/a&gt; to archive millions of websites are to be fast-tracked by ministers after the Guardian exposed &lt;a href="http://www.guardian.co.uk/media/2009/oct/04/british-library-digital-archives" title="ong delays in introducing the measures"&gt;long delays in introducing the measures&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:85%;"&gt;The culture minister, Margaret Hodge, is pressing for the faster introduction of powers to allow six major &lt;a href="http://www.guardian.co.uk/books/libraries" title="More from guardian.co.uk on Libraries"&gt;libraries&lt;/a&gt; to copy every free website based in the UK as part of their efforts to record Britain's cultural, scientific and political history...&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;span style="font-size:85%;"&gt;&lt;/span&gt;&lt;/p&gt;</content>
+   <content type="html"><![CDATA[Good news <a href="http://www.guardian.co.uk/books/2009/dec/27/libraries-internet">reported in The Guardian</a>:<br /><br /><p><span style="font-size:85%;"></span></p><blockquote><p><span style="font-size:85%;">New legal powers to allow the <a href="http://www.guardian.co.uk/books/british-library" title="More from guardian.co.uk on British Library">British Library</a> to archive millions of websites are to be fast-tracked by ministers after the Guardian exposed <a href="http://www.guardian.co.uk/media/2009/oct/04/british-library-digital-archives" title="ong delays in introducing the measures">long delays in introducing the measures</a>.</span></p><p><span style="font-size:85%;">The culture minister, Margaret Hodge, is pressing for the faster introduction of powers to allow six major <a href="http://www.guardian.co.uk/books/libraries" title="More from guardian.co.uk on Libraries">libraries</a> to copy every free website based in the UK as part of their efforts to record Britain's cultural, scientific and political history...</span></p></blockquote><p><span style="font-size:85%;"></span></p>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/1033044846103512306/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

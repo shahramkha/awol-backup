@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">The University of Pennsylvania Museum of Archaeology and Anthropology flickr Photostream</title>
-   <content type="html">&lt;a href="http://www.flickr.com/people/pennmuseum/"&gt;The &lt;span class="character-name-holder"&gt;University of Pennsylvania Museum of Archaeology and Anthropology flickr Photostream&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;                             &lt;span style="font-size: x-small;"&gt;The University  of Pennsylvania Museum of Archaeology and Anthropology, through its  research, collections, exhibitions, and educational programming,  advances understanding of the world's cultural heritage. &lt;br /&gt;&lt;br /&gt;Penn Museum is dedicated to the study and understanding of human history  and diversity. Founded in 1887, Penn Museum has conducted more than 300  archaeological and anthropological expeditions around the world. Three  gallery floors feature materials from Egypt, Mesopotamia, the Bible  Lands, Central America, Asia and the ancient Mediterranean World, as  well as artifacts from native peoples of Africa. The Penn Museum offers  the public an opportunity to share in the ongoing discovery of  humankind's collective heritage.&lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;And see AWOL's list of &lt;a href="http://ancientworldonline.blogspot.com/2013/11/institutional-flickr-photostreams.html"&gt;Institutional flickr Photostreams&lt;/a&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.flickr.com/people/pennmuseum/">The <span class="character-name-holder">University of Pennsylvania Museum of Archaeology and Anthropology flickr Photostream</span></a><br /><blockquote class="tr_bq">                             <span style="font-size: x-small;">The University  of Pennsylvania Museum of Archaeology and Anthropology, through its  research, collections, exhibitions, and educational programming,  advances understanding of the world's cultural heritage. <br /><br />Penn Museum is dedicated to the study and understanding of human history  and diversity. Founded in 1887, Penn Museum has conducted more than 300  archaeological and anthropological expeditions around the world. Three  gallery floors feature materials from Egypt, Mesopotamia, the Bible  Lands, Central America, Asia and the ancient Mediterranean World, as  well as artifacts from native peoples of Africa. The Penn Museum offers  the public an opportunity to share in the ongoing discovery of  humankind's collective heritage.</span></blockquote><br /><div style="text-align: center;">And see AWOL's list of <a href="http://ancientworldonline.blogspot.com/2013/11/institutional-flickr-photostreams.html">Institutional flickr Photostreams</a></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3713618781029101681/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

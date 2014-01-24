@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Access to the Journal of Egyptian Archaeology at JSTOR</title>
-   <content type="html">&lt;span style="font-size: xx-small;"&gt;[Links updated 27 January 2012] &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Having posted a message in May about the &lt;a href="http://ancientworldonline.blogspot.com/2009/05/asor-negotiates-access-for-15year-to.html"&gt;availability of ASOR journals at JSTOR&lt;/a&gt;, I am informed that a similar arrangement has been made by the &lt;a href="http://www.ees.ac.uk/join/right-membership.html"&gt;Egypt Exploration Society&lt;/a&gt; .  Members of the society who do not have institutional access to JSTOR can now have access to the &lt;a href="http://www.jstor.org/action/showPublication?journalCode=jegyparch"&gt;Journal of Egyptian Archaeology on JSTOR&lt;/a&gt; as an add-on the EES membership.  Volumes 1 (1914) - 92 (2006) are currently accessible - there is a five year moving wall.&lt;br /&gt;&lt;br /&gt;I can also point you to the &lt;a href="http://www.ees.ac.uk/archive/online-catalogue.html"&gt;EES library catalogue online&lt;/a&gt;.</content>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[Links updated 27 January 2012] </span><br /><br />Having posted a message in May about the <a href="http://ancientworldonline.blogspot.com/2009/05/asor-negotiates-access-for-15year-to.html">availability of ASOR journals at JSTOR</a>, I am informed that a similar arrangement has been made by the <a href="http://www.ees.ac.uk/join/right-membership.html">Egypt Exploration Society</a> .  Members of the society who do not have institutional access to JSTOR can now have access to the <a href="http://www.jstor.org/action/showPublication?journalCode=jegyparch">Journal of Egyptian Archaeology on JSTOR</a> as an add-on the EES membership.  Volumes 1 (1914) - 92 (2006) are currently accessible - there is a five year moving wall.<br /><br />I can also point you to the <a href="http://www.ees.ac.uk/archive/online-catalogue.html">EES library catalogue online</a>.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6365509729349653122/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

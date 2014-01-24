@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Mappable places in Pleiades for Google Earth</title>
-   <content type="html">All  the mappable places in &lt;a href="http://pleiades.stoa.org/"&gt;Pleiades&lt;/a&gt; (more than 30,000) in a single file for viewing in Google Earth (or reuse/remixing under terms of &lt;a href="http://pleiades.stoa.org/credits"&gt;our Creative Commons license&lt;/a&gt;). Via &lt;a href="http://sgillies.net/blog/1079/new-kml-for-pleiades"&gt;Sean Gillies&lt;/a&gt; and Tom Elliott&lt;br /&gt;&lt;br /&gt;&lt;a href="http://atlantides.org/downloads/pleiades/kml/"&gt;Mappable places in Pleiades kml file&lt;/a&gt;</content>
+   <content type="html"><![CDATA[All  the mappable places in <a href="http://pleiades.stoa.org/">Pleiades</a> (more than 30,000) in a single file for viewing in Google Earth (or reuse/remixing under terms of <a href="http://pleiades.stoa.org/credits">our Creative Commons license</a>). Via <a href="http://sgillies.net/blog/1079/new-kml-for-pleiades">Sean Gillies</a> and Tom Elliott<br /><br /><a href="http://atlantides.org/downloads/pleiades/kml/">Mappable places in Pleiades kml file</a>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/5875232345315319711/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

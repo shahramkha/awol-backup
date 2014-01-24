@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Video: A Symposium on Haremhab: General and King of Egypt</title>
-   <content type="html">&lt;iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/0lLv58zwGhU?rel=0" width="420"&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;The Department of Egyptian Art,&amp;nbsp; The Metropolitan Museum of Art presents&lt;br /&gt;A Symposium on Haremhab: General and King of Egypt&lt;br /&gt;May 5, 2011&lt;br /&gt;The Grace Rainey Rogers Auditorium&lt;br /&gt;&lt;br /&gt;Held in conjunction with the special exhibition&lt;br /&gt;&lt;a href="http://www.metmuseum.org/en/exhibitions/listings/2010/haremhab"&gt;Haremhab, The General Who Became King&lt;/a&gt;&lt;br /&gt;November 16, 2010 -- July 4, 2011</content>
+   <content type="html"><![CDATA[<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/0lLv58zwGhU?rel=0" width="420"></iframe><br /><br />The Department of Egyptian Art,&nbsp; The Metropolitan Museum of Art presents<br />A Symposium on Haremhab: General and King of Egypt<br />May 5, 2011<br />The Grace Rainey Rogers Auditorium<br /><br />Held in conjunction with the special exhibition<br /><a href="http://www.metmuseum.org/en/exhibitions/listings/2010/haremhab">Haremhab, The General Who Became King</a><br />November 16, 2010 -- July 4, 2011]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/5343623093497862513/comments/default"
@@ -33,14 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/"
-                    url="http://img.youtube.com/vi/0lLv58zwGhU/default.jpg"
-                    height="72"
-                    width="72"/>
-   <thr:total>1</thr:total>
 </entry>

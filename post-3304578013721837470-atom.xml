@@ -12,7 +12,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Crowd Source"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
    <title type="text">Do You Have Excellent Latin Skills?</title>
-   <content type="html">&lt;a href="http://www.stoa.org/archives/1829" rel="bookmark" title="Permanent Link: Volunteers with excellent Latin sought"&gt;Volunteers with excellent Latin sought&lt;/a&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;... The &lt;a href="http://papyri.info/"&gt;Papyri.info&lt;/a&gt; site includes some  52,000 transcribed texts, of which about 2,000 in Latin, very few  translated into English or any other modern language. The collaborative  editing tool SoSOL (deployed at &lt;a href="http://papyri.info/editor"&gt;papyri.info/editor&lt;/a&gt;) allows users to add to or improve existing editions of papyrological texts, for example by adding new translations.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;If you think you might like to take part in this exercise, take a look for instance at &lt;a href="http://papyri.info/search?DOCS_PER_PAGE=150&amp;amp;SERIES=o.bu.njem"&gt;O. Bu Njem&lt;/a&gt;,  a corpus of 150 ostraka from the Roman military base at Golas in Libya.  The Latin texts (often fragmentary) are already transcribed; do you  think you could produce an English translation of a few of these texts,  which will be credited to you? Would you like a brief introduction to  the SoSOL interface to enable you to add the translations yourself  (pending approval by the editorial board)? ...&lt;/span&gt;&lt;/blockquote&gt;&lt;a href="http://www.stoa.org/archives/1829"&gt;Read the rest!&lt;/a&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.stoa.org/archives/1829" rel="bookmark" title="Permanent Link: Volunteers with excellent Latin sought">Volunteers with excellent Latin sought</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">... The <a href="http://papyri.info/">Papyri.info</a> site includes some  52,000 transcribed texts, of which about 2,000 in Latin, very few  translated into English or any other modern language. The collaborative  editing tool SoSOL (deployed at <a href="http://papyri.info/editor">papyri.info/editor</a>) allows users to add to or improve existing editions of papyrological texts, for example by adding new translations.</span><br /><br /><span style="font-size: x-small;">If you think you might like to take part in this exercise, take a look for instance at <a href="http://papyri.info/search?DOCS_PER_PAGE=150&amp;SERIES=o.bu.njem">O. Bu Njem</a>,  a corpus of 150 ostraka from the Roman military base at Golas in Libya.  The Latin texts (often fragmentary) are already transcribed; do you  think you could produce an English translation of a few of these texts,  which will be credited to you? Would you like a brief introduction to  the SoSOL interface to enable you to add the translations yourself  (pending approval by the editorial board)? ...</span></blockquote><a href="http://www.stoa.org/archives/1829">Read the rest!</a>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3304578013721837470/comments/default"
@@ -35,10 +35,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

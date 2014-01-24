@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Ancient Language Spelling Correction</title>
-   <content type="html">I have recently become aware of two Latin spelling correction utilities:&lt;br /&gt;&lt;ul&gt;&lt;li style="font-family: inherit;"&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://drouizig.org/index.php?option=com_content&amp;amp;view=article&amp;amp;id=75&amp;amp;Itemid=68&amp;amp;lang=en"&gt;COL - Correcteur Orthographique de Latin - Correttore Ortografico di Latino - Corrector Ortográfico de Latín&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-family: inherit; font-size: small;"&gt;&lt;a href="http://extensions.services.openoffice.org/en/node/4293" title="Latin spelling and hyphenation dictionaries 2010.08.23"&gt;Latin spelling and hyphenation dictionaries&lt;/a&gt; (for Open Office) &lt;/span&gt;&lt;span style="font-family: inherit; font-size: small;"&gt;[n.b. this may require you to reload, but it will eventually appear]&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;This makes me wonder if there are utilities like these for other ancient languages.&amp;nbsp; If you have information, please respond in the comments.</content>
+   <content type="html"><![CDATA[I have recently become aware of two Latin spelling correction utilities:<br /><ul><li style="font-family: inherit;"><span style="font-size: small;"><a href="http://drouizig.org/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=68&amp;lang=en">COL - Correcteur Orthographique de Latin - Correttore Ortografico di Latino - Corrector Ortográfico de Latín</a></span></li><li><span style="font-family: inherit; font-size: small;"><a href="http://extensions.services.openoffice.org/en/node/4293" title="Latin spelling and hyphenation dictionaries 2010.08.23">Latin spelling and hyphenation dictionaries</a> (for Open Office) </span><span style="font-family: inherit; font-size: small;">[n.b. this may require you to reload, but it will eventually appear]</span></li></ul>This makes me wonder if there are utilities like these for other ancient languages.&nbsp; If you have information, please respond in the comments.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6331008543489405537/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

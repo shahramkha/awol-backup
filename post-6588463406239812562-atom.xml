@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Open Access to Giza Occasional Papers</title>
-   <content type="html">Ancient Egypt Research Associates is offering GOP2 in open access format:&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.aeraweb.org/gop/gop2.pdf"&gt;Giza Plateau Mapping Project Season 2005 Preliminary Report&lt;/a&gt;&lt;br /&gt;By Mark Lehner, Mohsen Kamel, and Ana Tavares. With contributions by Ashraf abd el-Aziz, Banu Aydinoglugil, Tove Björk, Lauren Bruning, Justine Gesell, Anies M. Hassan, Günter Heindl, Dan Hounsell, Ed Johnson, Yukinori Kawae, Jessica Kaiser, Freya Sadarangani, Tim Stevens, James Taylor, Derek Watson, Tom Westlin, and Ali Witsell&lt;br /&gt;Ancient Egypt Research Associates, Inc.&lt;br /&gt;ISBN: 0-9779370-0-3&lt;br /&gt;&lt;br /&gt;Notes:  Introduction; Area Clearing and Mapping; Excavations in 2005; Mapping Late Period Burials Conservation&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.etana.org/abzu/abzu-displayentry.pl?RC=21170"&gt;Abzu Permalink&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.aeraweb.org/aeragram.asp"&gt;AERAGRAM&lt;/a&gt;, the official newsletter of Ancient Egypt Research Associates, is also available 1996-2008.</content>
+   <content type="html"><![CDATA[Ancient Egypt Research Associates is offering GOP2 in open access format:<br /><br /><a href="http://www.aeraweb.org/gop/gop2.pdf">Giza Plateau Mapping Project Season 2005 Preliminary Report</a><br />By Mark Lehner, Mohsen Kamel, and Ana Tavares. With contributions by Ashraf abd el-Aziz, Banu Aydinoglugil, Tove Björk, Lauren Bruning, Justine Gesell, Anies M. Hassan, Günter Heindl, Dan Hounsell, Ed Johnson, Yukinori Kawae, Jessica Kaiser, Freya Sadarangani, Tim Stevens, James Taylor, Derek Watson, Tom Westlin, and Ali Witsell<br />Ancient Egypt Research Associates, Inc.<br />ISBN: 0-9779370-0-3<br /><br />Notes:  Introduction; Area Clearing and Mapping; Excavations in 2005; Mapping Late Period Burials Conservation<br /><br /><a href="http://www.etana.org/abzu/abzu-displayentry.pl?RC=21170">Abzu Permalink</a><br /><br /><a href="http://www.aeraweb.org/aeragram.asp">AERAGRAM</a>, the official newsletter of Ancient Egypt Research Associates, is also available 1996-2008.]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6588463406239812562/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

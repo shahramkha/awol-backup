@@ -11,7 +11,7 @@
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
    <title type="text">Open Access Journal: ARACHNION</title>
-   <content type="html">&lt;span style="font-size: xx-small;"&gt;[First posted in AWOL &lt;a href="http://ancientworldonline.blogspot.com/2009/10/more-open-access-journals_31.html"&gt;31 October 2009&lt;/a&gt;. Updated 8 July 2012]&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class="title"&gt;&lt;a href="http://www.cisi.unito.it/arachne/arachne.html"&gt;ARACHNION. A Journal of Ancient Literature and History on the Web&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;ISSN: 1123-9328&lt;span class="title"&gt; &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;blockquote class="tr_bq"&gt;&lt;img src="http://www.cisi.unito.it/arachne/logo3t.gif" width="473" /&gt;&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: xx-small;"&gt;Fourth issue (year 2, nr. 1; May, 16,  1996) &lt;br /&gt; - &lt;a href="http://www.cisi.unito.it/arachne/num4/index4.html"&gt;go to its contents&lt;/a&gt;&lt;br /&gt;   - download it &lt;a href="http://www.cisi.unito.it/arachne/mac.html"&gt;for Mac&lt;/a&gt; or &lt;a href="gopher://rs950.cisi.unito.it/59/humanities/arachne/num4/arachn04.zip"&gt;for PC&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://www.cisi.unito.it/arachne/previous.html"&gt;Previous Issues&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 100%;"&gt;See the full &lt;a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"&gt;List of Open Access Journals in Ancient Studies&lt;/a&gt;&lt;/span&gt; &lt;/div&gt;</content>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/10/more-open-access-journals_31.html">31 October 2009</a>. Updated 8 July 2012]</span><br /><br /><span class="title"><a href="http://www.cisi.unito.it/arachne/arachne.html">ARACHNION. A Journal of Ancient Literature and History on the Web</a></span><br />ISSN: 1123-9328<span class="title"> </span><br /><br /><blockquote class="tr_bq"><img src="http://www.cisi.unito.it/arachne/logo3t.gif" width="473" />&nbsp;</blockquote><blockquote class="tr_bq"><span style="font-size: xx-small;">Fourth issue (year 2, nr. 1; May, 16,  1996) <br /> - <a href="http://www.cisi.unito.it/arachne/num4/index4.html">go to its contents</a><br />   - download it <a href="http://www.cisi.unito.it/arachne/mac.html">for Mac</a> or <a href="gopher://rs950.cisi.unito.it/59/humanities/arachne/num4/arachn04.zip">for PC</a>.&nbsp;</span><br /><br /><span style="font-size: xx-small;">&nbsp;</span><span style="font-size: xx-small;"><a href="http://www.cisi.unito.it/arachne/previous.html">Previous Issues</a></span></blockquote><div style="text-align: center;"><span style="font-size: 100%;">See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span> </div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/4172615587830420486/comments/default"
@@ -34,13 +34,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
-   <georss:featurename>Università degli Studi di Torino, Via Giuseppe Verdi, 8, 10124 Turin, Italy</georss:featurename>
-   <georss:point>45.06969 7.689088</georss:point>
-   <georss:box>45.068288 7.6866205 45.071092 7.6915555</georss:box>
 </entry>

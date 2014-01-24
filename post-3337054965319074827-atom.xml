@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">The Council of Editors of Learned Journals Blog</title>
-   <content type="html">The new &lt;a href="http://thecelj.blogspot.com/"&gt;blog&lt;/a&gt; of &lt;a href="http://www.celj.org/index.php"&gt;The Council of Editors of Learned Journals&lt;/a&gt; has the feel of one to be watching.  Not very many journals in Ancient Studies seem to be &lt;a href="http://www.celj.org/memberjournals.php"&gt;members&lt;/a&gt;.  I wonder why not?</content>
+   <content type="html"><![CDATA[The new <a href="http://thecelj.blogspot.com/">blog</a> of <a href="http://www.celj.org/index.php">The Council of Editors of Learned Journals</a> has the feel of one to be watching.  Not very many journals in Ancient Studies seem to be <a href="http://www.celj.org/memberjournals.php">members</a>.  I wonder why not?]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3337054965319074827/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

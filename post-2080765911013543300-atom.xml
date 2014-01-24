@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Looting Matters</title>
-   <content type="html">&lt;div class="description"&gt;&lt;a href="http://lootingmatters.blogspot.com/"&gt;Looting Matters: Discussion of the archaeological ethics surrounding the collecting of antiquities&lt;/a&gt;&lt;/div&gt;&lt;div class="description"&gt;David Gill&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;David is honored with the &lt;b style="font-family: inherit;"&gt;Outstanding Public Service Award&lt;/b&gt; at the &lt;a href="http://aia.archaeological.org/webinfo.php?page=10177"&gt;2012 Awards Ceremony&lt;/a&gt; held at the &lt;a href="http://aia.archaeological.org/webinfo.php?page=10096"&gt;113th AIA &amp;amp; APA Joint Annual Meeting&lt;/a&gt; in Philadelphia, Pennsylvania on Friday, January 6&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;David's remarks made in accepting the award: &lt;a href="http://lootingmatters.blogspot.com/2012/01/aia-award-does-looting-matter.html"&gt;AIA Award: Does Looting Matter?&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<div class="description"><a href="http://lootingmatters.blogspot.com/">Looting Matters: Discussion of the archaeological ethics surrounding the collecting of antiquities</a></div><div class="description">David Gill<br /><br /><br /><span style="font-size: x-small;">David is honored with the <b style="font-family: inherit;">Outstanding Public Service Award</b> at the <a href="http://aia.archaeological.org/webinfo.php?page=10177">2012 Awards Ceremony</a> held at the <a href="http://aia.archaeological.org/webinfo.php?page=10096">113th AIA &amp; APA Joint Annual Meeting</a> in Philadelphia, Pennsylvania on Friday, January 6</span><br /><span style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;">David's remarks made in accepting the award: <a href="http://lootingmatters.blogspot.com/2012/01/aia-award-does-looting-matter.html">AIA Award: Does Looting Matter?</a></span></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/2080765911013543300/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

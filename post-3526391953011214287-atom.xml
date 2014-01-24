@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Scripto: a community transcription tool</title>
-   <content type="html">&lt;div class="tagline"&gt;&lt;a href="http://scripto.org/"&gt;Scripto: a community transcription tool&lt;/a&gt;&lt;/div&gt;&lt;blockquote class="tr_bq"&gt;&lt;h1 class="featured-title"&gt;&lt;span style="font-size: x-small;"&gt;A free, open source tool enabling community transcriptions of document and multimedia files&lt;/span&gt;&lt;/h1&gt;&lt;span style="font-size: x-small;"&gt;Scripto brings the power of &lt;a href="http://www.mediawiki.org/wiki/MediaWiki"&gt;MediaWiki&lt;/a&gt; to your collections. Designed to allow members of the public to  transcribe a range of different kinds of files, Scripto will increase  your content’s findability while building your user community through  active engagement.&lt;/span&gt;&lt;/blockquote&gt;&lt;div class="tagline"&gt;&amp;nbsp;Launched this week.&amp;nbsp; See the Tuesday, July 31st, 2012 press release:&lt;a href="http://chnm.gmu.edu/news/introducing-scripto-a-tool-for-community-transcription/" rel="bookmark" title="Permanent Link: Introducing Scripto: a Tool for Community Transcription"&gt; Introducing Scripto: a Tool for Community Transcription&lt;/a&gt;&lt;/div&gt;</content>
+   <content type="html"><![CDATA[<div class="tagline"><a href="http://scripto.org/">Scripto: a community transcription tool</a></div><blockquote class="tr_bq"><h1 class="featured-title"><span style="font-size: x-small;">A free, open source tool enabling community transcriptions of document and multimedia files</span></h1><span style="font-size: x-small;">Scripto brings the power of <a href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a> to your collections. Designed to allow members of the public to  transcribe a range of different kinds of files, Scripto will increase  your content’s findability while building your user community through  active engagement.</span></blockquote><div class="tagline">&nbsp;Launched this week.&nbsp; See the Tuesday, July 31st, 2012 press release:<a href="http://chnm.gmu.edu/news/introducing-scripto-a-tool-for-community-transcription/" rel="bookmark" title="Permanent Link: Introducing Scripto: a Tool for Community Transcription"> Introducing Scripto: a Tool for Community Transcription</a></div>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/3526391953011214287/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

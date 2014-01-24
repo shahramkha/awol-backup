@@ -11,7 +11,7 @@
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="papyrology"/>
    <title type="text">Papyrological Navigator Update</title>
-   <content type="html">&lt;a href="http://papyri.info/navigator/search"&gt;The Papyrological Navigator&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;From an announcement on &lt;a href="http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy"&gt;PAPY:&lt;/a&gt;&lt;br /&gt;&lt;pre&gt;&lt;span style="font-size:85%;"&gt;&lt;/span&gt;&lt;blockquote&gt;&lt;span style="font-size:85%;"&gt;Colleagues:&lt;br /&gt;&lt;br /&gt;The Papyrological Navigator now resides at New York University.&lt;br /&gt;Functionality remains the same. It is improved in many places, and minor&lt;br /&gt;corrections associated with the migration are in process, but it is the&lt;br /&gt;same PN.&lt;br /&gt;&lt;br /&gt;Earlier bookmarks may not work.&lt;br /&gt;&lt;br /&gt;Start at &lt;a href="https://webmail.uchicago.edu/wm/mail/fetch.html?urlid=g0fe6e35ceeab6aec48b2ef79aa77922c7l1kkgahnl&amp;amp;url=http%3A%2F%2Fpapyri.info" target="_blank"&gt;http://papyri.info&lt;/a&gt; and click "Search the Navigator" or else go&lt;br /&gt;straight to &lt;a href="https://webmail.uchicago.edu/wm/mail/fetch.html?urlid=g0fe6e35ceeab6aec48b2ef79aa77922c7l1kkgahnl&amp;amp;url=http%3A%2F%2Fpapyri.info%2Fnavigator%2Fsearch" target="_blank"&gt;http://papyri.info/navigator/search&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Please feel free to send feedback on functionality to Hugh Cayless&lt;br /&gt;(hugh dot cayless at nyu dot edu)&lt;br /&gt;&lt;br /&gt;All best,&lt;br /&gt;Josh Sosin, Rodney Ast, James Cowey&lt;/span&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;&lt;/pre&gt;</content>
+   <content type="html"><![CDATA[<a href="http://papyri.info/navigator/search">The Papyrological Navigator</a><br /><br />From an announcement on <a href="http://lists.hum.ku.dk/cgi-bin/mailman/listinfo/papy">PAPY:</a><br /><pre><span style="font-size:85%;"></span><blockquote><span style="font-size:85%;">Colleagues:<br /><br />The Papyrological Navigator now resides at New York University.<br />Functionality remains the same. It is improved in many places, and minor<br />corrections associated with the migration are in process, but it is the<br />same PN.<br /><br />Earlier bookmarks may not work.<br /><br />Start at <a href="https://webmail.uchicago.edu/wm/mail/fetch.html?urlid=g0fe6e35ceeab6aec48b2ef79aa77922c7l1kkgahnl&amp;url=http%3A%2F%2Fpapyri.info" target="_blank">http://papyri.info</a> and click "Search the Navigator" or else go<br />straight to <a href="https://webmail.uchicago.edu/wm/mail/fetch.html?urlid=g0fe6e35ceeab6aec48b2ef79aa77922c7l1kkgahnl&amp;url=http%3A%2F%2Fpapyri.info%2Fnavigator%2Fsearch" target="_blank">http://papyri.info/navigator/search</a><br /><br />Please feel free to send feedback on functionality to Hugh Cayless<br />(hugh dot cayless at nyu dot edu)<br /><br />All best,<br />Josh Sosin, Rodney Ast, James Cowey</span></blockquote><br /><br /></pre>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/114385734755368528/comments/default"
@@ -34,10 +34,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>2</thr:total>
 </entry>

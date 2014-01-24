@@ -12,7 +12,7 @@
    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
    <category scheme="http://www.blogger.com/atom/ns#" term="Poetry"/>
    <title type="text">Greek Hexameter Analysis Tool</title>
-   <content type="html">&lt;a href="http://www.thesaurus.flf.vu.lt/eiledara/"&gt;Greek Hexameter Analysis&lt;/a&gt;&lt;br /&gt;       &lt;br /&gt;&lt;div id="footer"&gt;  Scholarship &lt;span class="name"&gt;Mindaugas Strockis&lt;/span&gt;, programming   &lt;span class="name"&gt;Marius Tverijonas&lt;/span&gt; © Vilnius University   2012. &lt;/div&gt;&lt;blockquote class="tr_bq"&gt;&lt;span style="font-size: x-small;"&gt;Insert text here (try text below):&lt;br /&gt;&lt;br /&gt; Ἄνδρα μοι ἔννεπε,   Μοῦσα, πολύτροπον, ὃς μάλα πολλὰ&lt;/span&gt; &lt;span style="font-size: x-small;"&gt;&lt;br /&gt; πλάγχθη, ἐπεὶ Τροίης ἱερὸν   πτολίεθρον ἔπερσε·&lt;br /&gt; πολλῶν δ’ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,&lt;br /&gt;  πολλὰ δ’ ὅ γ’ ἐν πόντῳ πάθεν ἄλγεα ὃν κατὰ θυμόν,&lt;br /&gt; ἀρνύμενος ἥν   τε ψυχὴν καὶ νόστον ἑταίρων.&lt;br /&gt; Μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος&lt;br /&gt;  οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε &lt;/span&gt;&lt;/blockquote&gt;</content>
+   <content type="html"><![CDATA[<a href="http://www.thesaurus.flf.vu.lt/eiledara/">Greek Hexameter Analysis</a><br />       <br /><div id="footer">  Scholarship <span class="name">Mindaugas Strockis</span>, programming   <span class="name">Marius Tverijonas</span> © Vilnius University   2012. </div><blockquote class="tr_bq"><span style="font-size: x-small;">Insert text here (try text below):<br /><br /> Ἄνδρα μοι ἔννεπε,   Μοῦσα, πολύτροπον, ὃς μάλα πολλὰ</span> <span style="font-size: x-small;"><br /> πλάγχθη, ἐπεὶ Τροίης ἱερὸν   πτολίεθρον ἔπερσε·<br /> πολλῶν δ’ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,<br />  πολλὰ δ’ ὅ γ’ ἐν πόντῳ πάθεν ἄλγεα ὃν κατὰ θυμόν,<br /> ἀρνύμενος ἥν   τε ψυχὴν καὶ νόστον ἑταίρων.<br /> Μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος<br />  οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε </span></blockquote>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/6785940073397952696/comments/default"
@@ -35,10 +35,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>2</thr:total>
 </entry>

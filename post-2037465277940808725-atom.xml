@@ -10,7 +10,7 @@
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">More Corpus Scriptorum Christianorum Orientalium (CSCO)</title>
-   <content type="html">Francisco Arriaga posted a comment at &lt;a href="http://ancientworldonline.blogspot.com/2011/09/corpus-scriptorum-christianorum.html"&gt;Corpus Scriptorum Christianorum Orientalium (CSCO): Scriptores Coptici Online&lt;/a&gt;, drawing our attention to the following:&lt;br /&gt; &lt;div class="post-header"&gt;  &lt;/div&gt;&lt;br /&gt;&lt;script charset="utf-8" src="http://s6.scribdassets.com/javascripts/doc_widget/v1.1.js" type="text/javascript"&gt;  &lt;/script&gt;&lt;script charset="utf-8" type="text/javascript"&gt;ScribdX.DocWidget.BASE_URL = "http://www.scribd.com"; ScribdX.DocWidget.ASSETS_BASE_URL = "http://s6.scribdassets.com"; (new ScribdX.DocWidget({     type:"public_document_collections",     resource_id: 3404904,     show_resource_owner: true,     show_doc_thumbnail: true,     show_doc_owner: true,     show_doc_reads: true,     colors: {primary: "#1982AB", secondary: "#302523", label:"#888888", background: "#FFFFFF"},     height: "400px",     width: "300px",     document_order: "ascending" })).asyncGET(); &lt;/script&gt;</content>
+   <content type="html"><![CDATA[Francisco Arriaga posted a comment at <a href="http://ancientworldonline.blogspot.com/2011/09/corpus-scriptorum-christianorum.html">Corpus Scriptorum Christianorum Orientalium (CSCO): Scriptores Coptici Online</a>, drawing our attention to the following:<br /> <div class="post-header">  </div><br /><script charset="utf-8" src="http://s6.scribdassets.com/javascripts/doc_widget/v1.1.js" type="text/javascript">  </script><script charset="utf-8" type="text/javascript">ScribdX.DocWidget.BASE_URL = "http://www.scribd.com"; ScribdX.DocWidget.ASSETS_BASE_URL = "http://s6.scribdassets.com"; (new ScribdX.DocWidget({     type:"public_document_collections",     resource_id: 3404904,     show_resource_owner: true,     show_doc_thumbnail: true,     show_doc_owner: true,     show_doc_reads: true,     colors: {primary: "#1982AB", secondary: "#302523", label:"#888888", background: "#FFFFFF"},     height: "400px",     width: "300px",     document_order: "ascending" })).asyncGET(); </script>]]></content>
    <link rel="replies"
          type="application/atom+xml"
          href="http://ancientworldonline.blogspot.com/feeds/2037465277940808725/comments/default"
@@ -33,10 +33,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>

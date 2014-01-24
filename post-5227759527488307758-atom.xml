@@ -7,13 +7,10 @@
    <id>tag:blogger.com,1999:blog-116259103207720939.post-5227759527488307758</id>
    <published>2009-02-17T17:01:00.000-05:00</published>
    <updated>2009-02-17T17:06:43.803-05:00</updated>
-   <app:control xmlns:app="http://purl.org/atom/app#">
-      <app:draft>yes</app:draft>
-   </app:control>
    <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
    <title type="text">Archaeological Film Footage Online - Greece</title>
-   <content type="html">Athens (1939) - Arthur and Kate Tode (Kahop)&lt;br /&gt;&lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="504"&gt; 	&lt;param name="movie" value="http://www.archive.org/flow/flowplayer.commercial-3.0.3.swf" /&gt; 	&lt;param name="allowfullscreen" value="true" /&gt; 	&lt;param name="flashvars" value='config={"key":"#$b6eb72a0f2f1e29f3d4","autoBuffering":true,"playlist":[{"url":"http://www.archive.org/download/upenn-f16-0442_1939_Athens/upenn-f16-0442_1939_Athens_512kb.mp4","autoPlay":true,"accelerated":true,"scaling":"fit"}],"clip":{"autoPlay":true,"accelerated":true,"scaling":"fit"},"plugins":{"audio":{"url":"http://www.archive.org/flow/flowplayer.audio-3.0.3-dev.swf"},"controls":{"playlist":false,"fullscreen":true,"gloss":"high","backgroundColor":"0x000000","backgroundGradient":"medium","sliderColor":"0x777777","progressColor":"0x777777","timeColor":"0xeeeeee","durationColor":"0x01DAFF","buttonColor":"0x333333","buttonOverColor":"0x505050"}}}' /&gt;&lt;embed type="application/x-shockwave-flash" width="640" 	height="504" 	allowfullscreen="true" 	src="http://www.archive.org/flow/flowplayer.commercial-3.0.3.swf" 	flashvars='config={"key":"#$b6eb72a0f2f1e29f3d4","autoBuffering":true,"playlist":[{"url":"http://www.archive.org/download/upenn-f16-0442_1939_Athens/upenn-f16-0442_1939_Athens_512kb.mp4","autoPlay":true,"accelerated":true,"scaling":"fit"}],"clip":{"autoPlay":true,"accelerated":true,"scaling":"fit"},"plugins":{"audio":{"url":"http://www.archive.org/flow/flowplayer.audio-3.0.3-dev.swf"},"controls":{"playlist":false,"fullscreen":true,"gloss":"high","backgroundColor":"0x000000","backgroundGradient":"medium","sliderColor":"0x777777","progressColor":"0x777777","timeColor":"0xeeeeee","durationColor":"0x01DAFF","buttonColor":"0x333333","buttonOverColor":"0x505050"}}}'&gt; &lt;/embed&gt;&lt;/object&gt;</content>
+   <content type="html"><![CDATA[Athens (1939) - Arthur and Kate Tode (Kahop)<br /><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="504"> 	<param name="movie" value="http://www.archive.org/flow/flowplayer.commercial-3.0.3.swf" /> 	<param name="allowfullscreen" value="true" /> 	<param name="flashvars" value='config={"key":"#$b6eb72a0f2f1e29f3d4","autoBuffering":true,"playlist":[{"url":"http://www.archive.org/download/upenn-f16-0442_1939_Athens/upenn-f16-0442_1939_Athens_512kb.mp4","autoPlay":true,"accelerated":true,"scaling":"fit"}],"clip":{"autoPlay":true,"accelerated":true,"scaling":"fit"},"plugins":{"audio":{"url":"http://www.archive.org/flow/flowplayer.audio-3.0.3-dev.swf"},"controls":{"playlist":false,"fullscreen":true,"gloss":"high","backgroundColor":"0x000000","backgroundGradient":"medium","sliderColor":"0x777777","progressColor":"0x777777","timeColor":"0xeeeeee","durationColor":"0x01DAFF","buttonColor":"0x333333","buttonOverColor":"0x505050"}}}' /><embed type="application/x-shockwave-flash" width="640" 	height="504" 	allowfullscreen="true" 	src="http://www.archive.org/flow/flowplayer.commercial-3.0.3.swf" 	flashvars='config={"key":"#$b6eb72a0f2f1e29f3d4","autoBuffering":true,"playlist":[{"url":"http://www.archive.org/download/upenn-f16-0442_1939_Athens/upenn-f16-0442_1939_Athens_512kb.mp4","autoPlay":true,"accelerated":true,"scaling":"fit"}],"clip":{"autoPlay":true,"accelerated":true,"scaling":"fit"},"plugins":{"audio":{"url":"http://www.archive.org/flow/flowplayer.audio-3.0.3-dev.swf"},"controls":{"playlist":false,"fullscreen":true,"gloss":"high","backgroundColor":"0x000000","backgroundGradient":"medium","sliderColor":"0x777777","progressColor":"0x777777","timeColor":"0xeeeeee","durationColor":"0x01DAFF","buttonColor":"0x333333","buttonOverColor":"0x505050"}}}'> </embed></object>]]></content>
    <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5227759527488307758"/>
@@ -24,10 +21,5 @@
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail"
-                width="32"
-                height="32"
-                src="//lh5.googleusercontent.com/-8nLHiUNNG5o/AAAAAAAAAAI/AAAAAAAABVw/5TF3PbnVxzg/s512-c/photo.jpg"/>
    </author>
-   <thr:total>0</thr:total>
 </entry>
